@@ -1,0 +1,1531 @@
+,Unnamed: 0,Nation,Coverage,Metric,Value,Year
+1,12,Alabama,Any coverage,estimate,4596,2023
+2,13,Alabama,Uninsured,estimate,426,2023
+12,23,Alaska,Any coverage,estimate,629,2023
+13,24,Alaska,Uninsured,estimate,73,2023
+23,34,Arizona,Any coverage,estimate,6594,2023
+24,35,Arizona,Uninsured,estimate,727,2023
+34,45,Arkansas,Any coverage,estimate,2744,2023
+35,46,Arkansas,Uninsured,estimate,269,2023
+45,56,California,Any coverage,estimate,36040,2023
+46,57,California,Uninsured,estimate,2458,2023
+56,67,Colorado,Any coverage,estimate,5389,2023
+57,68,Colorado,Uninsured,estimate,387,2023
+67,78,Connecticut,Any coverage,estimate,3369,2023
+68,79,Connecticut,Uninsured,estimate,205,2023
+78,89,Delaware,Any coverage,estimate,952,2023
+79,90,Delaware,Uninsured,estimate,66,2023
+89,100,District of Columbia,Any coverage,estimate,651,2023
+90,101,District of Columbia,Uninsured,estimate,18,2023
+100,111,Florida,Any coverage,estimate,19900,2023
+101,112,Florida,Uninsured,estimate,2381,2023
+111,122,Georgia,Any coverage,estimate,9599,2023
+112,123,Georgia,Uninsured,estimate,1233,2023
+122,133,Hawaii,Any coverage,estimate,1334,2023
+123,134,Hawaii,Uninsured,estimate,44,2023
+133,144,Idaho,Any coverage,estimate,1766,2023
+134,145,Idaho,Uninsured,estimate,172,2023
+144,155,Illinois,Any coverage,estimate,11620,2023
+145,156,Illinois,Uninsured,estimate,763,2023
+155,166,Indiana,Any coverage,estimate,6301,2023
+156,167,Indiana,Uninsured,estimate,464,2023
+166,177,Iowa,Any coverage,estimate,3003,2023
+167,178,Iowa,Uninsured,estimate,159,2023
+177,188,Kansas,Any coverage,estimate,2636,2023
+178,189,Kansas,Uninsured,estimate,240,2023
+188,199,Kentucky,Any coverage,estimate,4201,2023
+189,200,Kentucky,Uninsured,estimate,241,2023
+199,210,Louisiana,Any coverage,estimate,4168,2023
+200,211,Louisiana,Uninsured,estimate,310,2023
+210,221,Maine,Any coverage,estimate,1297,2023
+211,222,Maine,Uninsured,estimate,81,2023
+221,232,Maryland,Any coverage,estimate,5706,2023
+222,233,Maryland,Uninsured,estimate,381,2023
+232,243,Massachusetts,Any coverage,estimate,6755,2023
+233,244,Massachusetts,Uninsured,estimate,179,2023
+243,254,Michigan,Any coverage,estimate,9483,2023
+244,255,Michigan,Uninsured,estimate,448,2023
+254,265,Minnesota,Any coverage,estimate,5440,2023
+255,266,Minnesota,Uninsured,estimate,238,2023
+265,276,Mississippi,Any coverage,estimate,2577,2023
+266,277,Mississippi,Uninsured,estimate,297,2023
+276,287,Missouri,Any coverage,estimate,5636,2023
+277,288,Missouri,Uninsured,estimate,458,2023
+287,298,Montana,Any coverage,estimate,1021,2023
+288,299,Montana,Uninsured,estimate,94,2023
+298,309,Nebraska,Any coverage,estimate,1832,2023
+299,310,Nebraska,Uninsured,estimate,119,2023
+309,320,Nevada,Any coverage,estimate,2813,2023
+310,321,Nevada,Uninsured,estimate,341,2023
+320,331,New Hampshire,Any coverage,estimate,1320,2023
+321,332,New Hampshire,Uninsured,estimate,66,2023
+331,342,New Jersey,Any coverage,estimate,8542,2023
+332,343,New Jersey,Uninsured,estimate,662,2023
+342,353,New Mexico,Any coverage,estimate,1888,2023
+343,354,New Mexico,Uninsured,estimate,189,2023
+353,364,New York,Any coverage,estimate,18430,2023
+354,365,New York,Uninsured,estimate,938,2023
+364,375,North Carolina,Any coverage,estimate,9643,2023
+365,376,North Carolina,Uninsured,estimate,981,2023
+375,386,North Dakota,Any coverage,estimate,729,2023
+376,387,North Dakota,Uninsured,estimate,34,2023
+386,397,Ohio,Any coverage,estimate,10900,2023
+387,398,Ohio,Uninsured,estimate,713,2023
+397,408,Oklahoma,Any coverage,estimate,3517,2023
+398,409,Oklahoma,Uninsured,estimate,450,2023
+408,419,Oregon,Any coverage,estimate,3963,2023
+409,420,Oregon,Uninsured,estimate,230,2023
+419,430,Pennsylvania,Any coverage,estimate,12090,2023
+420,431,Pennsylvania,Uninsured,estimate,692,2023
+430,441,Rhode Island,Any coverage,estimate,1031,2023
+431,442,Rhode Island,Uninsured,estimate,48,2023
+441,452,South Carolina,Any coverage,estimate,4796,2023
+442,453,South Carolina,Uninsured,estimate,480,2023
+452,463,South Dakota,Any coverage,estimate,826,2023
+453,464,South Dakota,Uninsured,estimate,74,2023
+463,474,Tennessee,Any coverage,estimate,6379,2023
+464,475,Tennessee,Uninsured,estimate,654,2023
+474,485,Texas,Any coverage,estimate,25100,2023
+475,486,Texas,Uninsured,estimate,4917,2023
+485,496,Utah,Any coverage,estimate,3121,2023
+486,497,Utah,Uninsured,estimate,270,2023
+496,507,Vermont,Any coverage,estimate,620,2023
+497,508,Vermont,Uninsured,estimate,22,2023
+507,518,Virginia,Any coverage,estimate,7946,2023
+508,519,Virginia,Uninsured,estimate,543,2023
+518,529,Washington,Any coverage,estimate,7213,2023
+519,530,Washington,Uninsured,estimate,481,2023
+529,540,West Virginia,Any coverage,estimate,1633,2023
+530,541,West Virginia,Uninsured,estimate,103,2023
+540,551,Wisconsin,Any coverage,estimate,5567,2023
+541,552,Wisconsin,Uninsured,estimate,284,2023
+551,562,Wyoming,Any coverage,estimate,513,2023
+552,563,Wyoming,Uninsured,estimate,61,2023
+2245,2300,Alabama,Any coverage,estimate,4551,2022
+2246,2301,Alabama,Uninsured,estimate,437,2022
+2256,2311,Alaska,Any coverage,estimate,625,2022
+2257,2312,Alaska,Uninsured,estimate,77,2022
+2267,2322,Arizona,Any coverage,estimate,6503,2022
+2268,2323,Arizona,Uninsured,estimate,749,2022
+2278,2333,Arkansas,Any coverage,estimate,2739,2022
+2279,2334,Arkansas,Uninsured,estimate,252,2022
+2289,2344,California,Any coverage,estimate,36060,2022
+2290,2345,California,Uninsured,estimate,2492,2022
+2300,2355,Colorado,Any coverage,estimate,5334,2022
+2301,2356,Colorado,Uninsured,estimate,409,2022
+2311,2366,Connecticut,Any coverage,estimate,3397,2022
+2312,2367,Connecticut,Uninsured,estimate,185,2022
+2322,2377,Delaware,Any coverage,estimate,949,2022
+2323,2378,Delaware,Uninsured,estimate,57,2022
+2333,2388,District of Columbia,Any coverage,estimate,642,2022
+2334,2389,District of Columbia,Uninsured,estimate,19,2022
+2344,2399,Florida,Any coverage,estimate,19460,2022
+2345,2400,Florida,Uninsured,estimate,2448,2022
+2355,2410,Georgia,Any coverage,estimate,9467,2022
+2356,2411,Georgia,Uninsured,estimate,1251,2022
+2366,2421,Hawaii,Any coverage,estimate,1335,2022
+2367,2422,Hawaii,Uninsured,estimate,49,2022
+2377,2432,Idaho,Any coverage,estimate,1755,2022
+2378,2433,Idaho,Uninsured,estimate,157,2022
+2388,2443,Illinois,Any coverage,estimate,11600,2022
+2389,2444,Illinois,Uninsured,estimate,813,2022
+2399,2454,Indiana,Any coverage,estimate,6268,2022
+2400,2455,Indiana,Uninsured,estimate,469,2022
+2410,2465,Iowa,Any coverage,estimate,3013,2022
+2411,2466,Iowa,Uninsured,estimate,141,2022
+2421,2476,Kansas,Any coverage,estimate,2629,2022
+2422,2477,Kansas,Uninsured,estimate,247,2022
+2432,2487,Kentucky,Any coverage,estimate,4181,2022
+2433,2488,Kentucky,Uninsured,estimate,247,2022
+2443,2498,Louisiana,Any coverage,estimate,4182,2022
+2444,2499,Louisiana,Uninsured,estimate,312,2022
+2454,2509,Maine,Any coverage,estimate,1278,2022
+2455,2510,Maine,Uninsured,estimate,90,2022
+2465,2520,Maryland,Any coverage,estimate,5705,2022
+2466,2521,Maryland,Uninsured,estimate,368,2022
+2476,2531,Massachusetts,Any coverage,estimate,6751,2022
+2477,2532,Massachusetts,Uninsured,estimate,168,2022
+2487,2542,Michigan,Any coverage,estimate,9478,2022
+2488,2543,Michigan,Uninsured,estimate,451,2022
+2498,2553,Minnesota,Any coverage,estimate,5403,2022
+2499,2554,Minnesota,Uninsured,estimate,254,2022
+2509,2564,Mississippi,Any coverage,estimate,2561,2022
+2510,2565,Mississippi,Uninsured,estimate,312,2022
+2520,2575,Missouri,Any coverage,estimate,5551,2022
+2521,2576,Missouri,Uninsured,estimate,521,2022
+2531,2586,Montana,Any coverage,estimate,1014,2022
+2532,2587,Montana,Uninsured,estimate,91,2022
+2542,2597,Nebraska,Any coverage,estimate,1810,2022
+2543,2598,Nebraska,Uninsured,estimate,130,2022
+2553,2608,Nevada,Any coverage,estimate,2791,2022
+2554,2609,Nevada,Uninsured,estimate,349,2022
+2564,2619,New Hampshire,Any coverage,estimate,1312,2022
+2565,2620,New Hampshire,Uninsured,estimate,68,2022
+2575,2630,New Jersey,Any coverage,estimate,8541,2022
+2576,2631,New Jersey,Uninsured,estimate,627,2022
+2586,2641,New Mexico,Any coverage,estimate,1904,2022
+2587,2642,New Mexico,Uninsured,estimate,170,2022
+2597,2652,New York,Any coverage,estimate,18530,2022
+2598,2653,New York,Uninsured,estimate,945,2022
+2608,2663,North Carolina,Any coverage,estimate,9508,2022
+2609,2664,North Carolina,Uninsured,estimate,973,2022
+2619,2674,North Dakota,Any coverage,estimate,714,2022
+2620,2675,North Dakota,Uninsured,estimate,49,2022
+2630,2685,Ohio,Any coverage,estimate,10910,2022
+2631,2686,Ohio,Uninsured,estimate,683,2022
+2641,2696,Oklahoma,Any coverage,estimate,3469,2022
+2642,2697,Oklahoma,Uninsured,estimate,461,2022
+2652,2707,Oregon,Any coverage,estimate,3947,2022
+2653,2708,Oregon,Uninsured,estimate,252,2022
+2663,2718,Pennsylvania,Any coverage,estimate,12110,2022
+2664,2719,Pennsylvania,Uninsured,estimate,681,2022
+2674,2729,Rhode Island,Any coverage,estimate,1032,2022
+2675,2730,Rhode Island,Uninsured,estimate,45,2022
+2685,2740,South Carolina,Any coverage,estimate,4715,2022
+2686,2741,South Carolina,Uninsured,estimate,470,2022
+2696,2751,South Dakota,Any coverage,estimate,817,2022
+2697,2752,South Dakota,Uninsured,estimate,72,2022
+2707,2762,Tennessee,Any coverage,estimate,6304,2022
+2708,2763,Tennessee,Uninsured,estimate,647,2022
+2718,2773,Texas,Any coverage,estimate,24640,2022
+2719,2774,Texas,Uninsured,estimate,4899,2022
+2729,2784,Utah,Any coverage,estimate,3081,2022
+2730,2785,Utah,Uninsured,estimate,273,2022
+2740,2795,Vermont,Any coverage,estimate,616,2022
+2741,2796,Vermont,Uninsured,estimate,25,2022
+2751,2806,Virginia,Any coverage,estimate,7901,2022
+2752,2807,Virginia,Uninsured,estimate,545,2022
+2762,2817,Washington,Any coverage,estimate,7199,2022
+2763,2818,Washington,Uninsured,estimate,468,2022
+2773,2828,West Virginia,Any coverage,estimate,1638,2022
+2774,2829,West Virginia,Uninsured,estimate,103,2022
+2784,2839,Wisconsin,Any coverage,estimate,5529,2022
+2785,2840,Wisconsin,Uninsured,estimate,303,2022
+2795,2850,Wyoming,Any coverage,estimate,505,2022
+2796,2851,Wyoming,Uninsured,estimate,66,2022
+4489,4588,Alabama,Any coverage,estimate,4469,2021
+4490,4589,Alabama,Uninsured,estimate,489,2021
+4500,4599,Alaska,Any coverage,estimate,622,2021
+4501,4600,Alaska,Uninsured,estimate,80,2021
+4511,4610,Arizona,Any coverage,estimate,6408,2021
+4512,4611,Arizona,Uninsured,estimate,766,2021
+4522,4621,Arkansas,Any coverage,estimate,2702,2021
+4523,4622,Arkansas,Uninsured,estimate,273,2021
+4533,4632,California,Any coverage,estimate,36010,2021
+4534,4633,California,Uninsured,estimate,2713,2021
+4544,4643,Colorado,Any coverage,estimate,5260,2021
+4545,4644,Colorado,Uninsured,estimate,455,2021
+4555,4654,Connecticut,Any coverage,estimate,3374,2021
+4556,4655,Connecticut,Uninsured,estimate,184,2021
+4566,4665,Delaware,Any coverage,estimate,931,2021
+4567,4666,Delaware,Uninsured,estimate,57,2021
+4577,4676,District of Columbia,Any coverage,estimate,636,2021
+4578,4677,District of Columbia,Uninsured,estimate,24,2021
+4588,4687,Florida,Any coverage,estimate,18870,2021
+4589,4688,Florida,Uninsured,estimate,2598,2021
+4599,4698,Georgia,Any coverage,estimate,9261,2021
+4600,4699,Georgia,Uninsured,estimate,1339,2021
+4610,4709,Hawaii,Any coverage,estimate,1327,2021
+4611,4710,Hawaii,Uninsured,estimate,54,2021
+4621,4720,Idaho,Any coverage,estimate,1713,2021
+4622,4721,Idaho,Uninsured,estimate,166,2021
+4632,4731,Illinois,Any coverage,estimate,11620,2021
+4633,4732,Illinois,Uninsured,estimate,875,2021
+4643,4742,Indiana,Any coverage,estimate,6203,2021
+4644,4743,Indiana,Uninsured,estimate,504,2021
+4654,4753,Iowa,Any coverage,estimate,3000,2021
+4655,4754,Iowa,Uninsured,estimate,151,2021
+4665,4764,Kansas,Any coverage,estimate,2615,2021
+4666,4765,Kansas,Uninsured,estimate,264,2021
+4676,4775,Kentucky,Any coverage,estimate,4178,2021
+4677,4776,Kentucky,Uninsured,estimate,251,2021
+4687,4786,Louisiana,Any coverage,estimate,4173,2021
+4688,4787,Louisiana,Uninsured,estimate,345,2021
+4698,4797,Maine,Any coverage,estimate,1279,2021
+4699,4798,Maine,Uninsured,estimate,78,2021
+4709,4808,Maryland,Any coverage,estimate,5690,2021
+4710,4809,Maryland,Uninsured,estimate,369,2021
+4720,4819,Massachusetts,Any coverage,estimate,6743,2021
+4721,4820,Massachusetts,Uninsured,estimate,173,2021
+4731,4830,Michigan,Any coverage,estimate,9455,2021
+4732,4831,Michigan,Uninsured,estimate,495,2021
+4742,4841,Minnesota,Any coverage,estimate,5400,2021
+4743,4842,Minnesota,Uninsured,estimate,252,2021
+4753,4852,Mississippi,Any coverage,estimate,2543,2021
+4754,4853,Mississippi,Uninsured,estimate,343,2021
+4764,4863,Missouri,Any coverage,estimate,5492,2021
+4765,4864,Missouri,Uninsured,estimate,571,2021
+4775,4874,Montana,Any coverage,estimate,999,2021
+4776,4875,Montana,Uninsured,estimate,89,2021
+4786,4885,Nebraska,Any coverage,estimate,1799,2021
+4787,4886,Nebraska,Uninsured,estimate,138,2021
+4797,4896,Nevada,Any coverage,estimate,2744,2021
+4798,4897,Nevada,Uninsured,estimate,362,2021
+4808,4907,New Hampshire,Any coverage,estimate,1302,2021
+4809,4908,New Hampshire,Uninsured,estimate,71,2021
+4819,4918,New Jersey,Any coverage,estimate,8507,2021
+4820,4919,New Jersey,Uninsured,estimate,657,2021
+4830,4929,New Mexico,Any coverage,estimate,1870,2021
+4831,4930,New Mexico,Uninsured,estimate,207,2021
+4841,4940,New York,Any coverage,estimate,18580,2021
+4842,4941,New York,Uninsured,estimate,1019,2021
+4852,4951,North Carolina,Any coverage,estimate,9268,2021
+4853,4952,North Carolina,Uninsured,estimate,1078,2021
+4863,4962,North Dakota,Any coverage,estimate,697,2021
+4864,4963,North Dakota,Uninsured,estimate,59,2021
+4874,4973,Ohio,Any coverage,estimate,10850,2021
+4875,4974,Ohio,Uninsured,estimate,758,2021
+4885,4984,Oklahoma,Any coverage,estimate,3367,2021
+4886,4985,Oklahoma,Uninsured,estimate,538,2021
+4896,4995,Oregon,Any coverage,estimate,3951,2021
+4897,4996,Oregon,Uninsured,estimate,255,2021
+4907,5006,Pennsylvania,Any coverage,estimate,12070,2021
+4908,5007,Pennsylvania,Uninsured,estimate,702,2021
+4918,5017,Rhode Island,Any coverage,estimate,1033,2021
+4919,5018,Rhode Island,Uninsured,estimate,47,2021
+4929,5028,South Carolina,Any coverage,estimate,4588,2021
+4930,5029,South Carolina,Uninsured,estimate,512,2021
+4940,5039,South Dakota,Any coverage,estimate,795,2021
+4941,5040,South Dakota,Uninsured,estimate,83,2021
+4951,5050,Tennessee,Any coverage,estimate,6187,2021
+4952,5051,Tennessee,Uninsured,estimate,686,2021
+4962,5061,Texas,Any coverage,estimate,23840,2021
+4963,5062,Texas,Uninsured,estimate,5224,2021
+4973,5072,Utah,Any coverage,estimate,3011,2021
+4974,5073,Utah,Uninsured,estimate,299,2021
+4984,5083,Vermont,Any coverage,estimate,616,2021
+4985,5084,Vermont,Uninsured,estimate,23,2021
+4995,5094,Virginia,Any coverage,estimate,7839,2021
+4996,5095,Virginia,Uninsured,estimate,574,2021
+5006,5105,Washington,Any coverage,estimate,7130,2021
+5007,5106,Washington,Uninsured,estimate,488,2021
+5017,5116,West Virginia,Any coverage,estimate,1649,2021
+5018,5117,West Virginia,Uninsured,estimate,107,2021
+5028,5127,Wisconsin,Any coverage,estimate,5516,2021
+5029,5128,Wisconsin,Uninsured,estimate,312,2021
+5039,5138,Wyoming,Any coverage,estimate,501,2021
+5040,5139,Wyoming,Uninsured,estimate,69,2021
+8977,9164,Alabama,Any coverage,estimate,4354,2019
+8978,9165,Alabama,Uninsured,estimate,469,2019
+8988,9175,Alaska,Any coverage,estimate,620,2019
+8989,9176,Alaska,Uninsured,estimate,86,2019
+8999,9186,Arizona,Any coverage,estimate,6357,2019
+9000,9187,Arizona,Uninsured,estimate,809,2019
+9010,9197,Arkansas,Any coverage,estimate,2692,2019
+9011,9198,Arkansas,Uninsured,estimate,271,2019
+9021,9208,California,Any coverage,estimate,36000,2019
+9022,9209,California,Uninsured,estimate,3002,2019
+9032,9219,Colorado,Any coverage,estimate,5211,2019
+9033,9220,Colorado,Uninsured,estimate,453,2019
+9043,9230,Connecticut,Any coverage,estimate,3307,2019
+9044,9231,Connecticut,Uninsured,estimate,207,2019
+9054,9241,Delaware,Any coverage,estimate,894,2019
+9055,9242,Delaware,Uninsured,estimate,63,2019
+9065,9252,District of Columbia,Any coverage,estimate,672,2019
+9066,9253,District of Columbia,Uninsured,estimate,25,2019
+9076,9263,Florida,Any coverage,estimate,18370,2019
+9077,9264,Florida,Uninsured,estimate,2784,2019
+9087,9274,Georgia,Any coverage,estimate,9023,2019
+9088,9275,Georgia,Uninsured,estimate,1398,2019
+9098,9285,Hawaii,Any coverage,estimate,1302,2019
+9099,9286,Hawaii,Uninsured,estimate,56,2019
+9109,9296,Idaho,Any coverage,estimate,1574,2019
+9110,9297,Idaho,Uninsured,estimate,191,2019
+9120,9307,Illinois,Any coverage,estimate,11570,2019
+9121,9308,Illinois,Uninsured,estimate,923,2019
+9131,9318,Indiana,Any coverage,estimate,6053,2019
+9132,9319,Indiana,Uninsured,estimate,578,2019
+9142,9329,Iowa,Any coverage,estimate,2956,2019
+9143,9330,Iowa,Uninsured,estimate,156,2019
+9153,9340,Kansas,Any coverage,estimate,2589,2019
+9154,9341,Kansas,Uninsured,estimate,262,2019
+9164,9351,Kentucky,Any coverage,estimate,4102,2019
+9165,9352,Kentucky,Uninsured,estimate,283,2019
+9175,9362,Louisiana,Any coverage,estimate,4135,2019
+9176,9363,Louisiana,Uninsured,estimate,404,2019
+9186,9373,Maine,Any coverage,estimate,1221,2019
+9187,9374,Maine,Uninsured,estimate,107,2019
+9197,9384,Maryland,Any coverage,estimate,5589,2019
+9198,9385,Maryland,Uninsured,estimate,357,2019
+9208,9395,Massachusetts,Any coverage,estimate,6617,2019
+9209,9396,Massachusetts,Uninsured,estimate,204,2019
+9219,9406,Michigan,Any coverage,estimate,9308,2019
+9220,9407,Michigan,Uninsured,estimate,571,2019
+9230,9417,Minnesota,Any coverage,estimate,5308,2019
+9231,9418,Minnesota,Uninsured,estimate,273,2019
+9241,9428,Mississippi,Any coverage,estimate,2528,2019
+9242,9429,Mississippi,Uninsured,estimate,377,2019
+9252,9439,Missouri,Any coverage,estimate,5417,2019
+9253,9440,Missouri,Uninsured,estimate,604,2019
+9263,9450,Montana,Any coverage,estimate,967,2019
+9264,9451,Montana,Uninsured,estimate,87,2019
+9274,9461,Nebraska,Any coverage,estimate,1746,2019
+9275,9462,Nebraska,Uninsured,estimate,158,2019
+9285,9472,Nevada,Any coverage,estimate,2696,2019
+9286,9473,Nevada,Uninsured,estimate,348,2019
+9296,9483,New Hampshire,Any coverage,estimate,1259,2019
+9297,9484,New Hampshire,Uninsured,estimate,84,2019
+9307,9494,New Jersey,Any coverage,estimate,8084,2019
+9308,9495,New Jersey,Uninsured,estimate,692,2019
+9318,9505,New Mexico,Any coverage,estimate,1854,2019
+9319,9506,New Mexico,Uninsured,estimate,205,2019
+9329,9516,New York,Any coverage,estimate,18210,2019
+9330,9517,New York,Uninsured,estimate,1007,2019
+9340,9527,North Carolina,Any coverage,estimate,9124,2019
+9341,9528,North Carolina,Uninsured,estimate,1157,2019
+9351,9538,North Dakota,Any coverage,estimate,693,2019
+9352,9539,North Dakota,Uninsured,estimate,51,2019
+9362,9549,Ohio,Any coverage,estimate,10760,2019
+9363,9550,Ohio,Uninsured,estimate,758,2019
+9373,9560,Oklahoma,Any coverage,estimate,3319,2019
+9374,9561,Oklahoma,Uninsured,estimate,553,2019
+9384,9571,Oregon,Any coverage,estimate,3876,2019
+9385,9572,Oregon,Uninsured,estimate,299,2019
+9395,9582,Pennsylvania,Any coverage,estimate,11870,2019
+9396,9583,Pennsylvania,Uninsured,estimate,726,2019
+9406,9593,Rhode Island,Any coverage,estimate,1001,2019
+9407,9594,Rhode Island,Uninsured,estimate,43,2019
+9417,9604,South Carolina,Any coverage,estimate,4501,2019
+9418,9605,South Carolina,Uninsured,estimate,548,2019
+9428,9615,South Dakota,Any coverage,estimate,779,2019
+9429,9616,South Dakota,Uninsured,estimate,88,2019
+9439,9626,Tennessee,Any coverage,estimate,6038,2019
+9440,9627,Tennessee,Uninsured,estimate,682,2019
+9450,9637,Texas,Any coverage,estimate,23280,2019
+9451,9638,Texas,Uninsured,estimate,5234,2019
+9461,9648,Utah,Any coverage,estimate,2872,2019
+9462,9649,Utah,Uninsured,estimate,307,2019
+9472,9659,Vermont,Any coverage,estimate,590,2019
+9473,9660,Vermont,Uninsured,estimate,28,2019
+9483,9670,Virginia,Any coverage,estimate,7645,2019
+9484,9671,Virginia,Uninsured,estimate,658,2019
+9494,9681,Washington,Any coverage,estimate,7001,2019
+9495,9682,Washington,Uninsured,estimate,496,2019
+9505,9692,West Virginia,Any coverage,estimate,1644,2019
+9506,9693,West Virginia,Uninsured,estimate,118,2019
+9516,9703,Wisconsin,Any coverage,estimate,5423,2019
+9517,9704,Wisconsin,Uninsured,estimate,329,2019
+9527,9714,Wyoming,Any coverage,estimate,499,2019
+9528,9715,Wyoming,Uninsured,estimate,70,2019
+11221,11452,Alabama,Any coverage,estimate,4329,2018
+11222,11453,Alabama,Uninsured,estimate,481,2018
+11232,11463,Alaska,Any coverage,estimate,623,2018
+11233,11464,Alaska,Uninsured,estimate,90,2018
+11243,11474,Arizona,Any coverage,estimate,6315,2018
+11244,11475,Arizona,Uninsured,estimate,750,2018
+11254,11485,Arkansas,Any coverage,estimate,2717,2018
+11255,11486,Arkansas,Uninsured,estimate,244,2018
+11265,11496,California,Any coverage,estimate,36240,2018
+11266,11497,California,Uninsured,estimate,2826,2018
+11276,11507,Colorado,Any coverage,estimate,5182,2018
+11277,11508,Colorado,Uninsured,estimate,422,2018
+11287,11518,Connecticut,Any coverage,estimate,3337,2018
+11288,11519,Connecticut,Uninsured,estimate,187,2018
+11298,11529,Delaware,Any coverage,estimate,898,2018
+11299,11530,Delaware,Uninsured,estimate,54,2018
+11309,11540,District of Columbia,Any coverage,estimate,671,2018
+11310,11541,District of Columbia,Uninsured,estimate,22,2018
+11320,11551,Florida,Any coverage,estimate,18270,2018
+11321,11552,Florida,Uninsured,estimate,2728,2018
+11331,11562,Georgia,Any coverage,estimate,8924,2018
+11332,11563,Georgia,Uninsured,estimate,1411,2018
+11342,11573,Hawaii,Any coverage,estimate,1313,2018
+11343,11574,Hawaii,Uninsured,estimate,56,2018
+11353,11584,Idaho,Any coverage,estimate,1541,2018
+11354,11585,Idaho,Uninsured,estimate,193,2018
+11364,11595,Illinois,Any coverage,estimate,11690,2018
+11365,11596,Illinois,Uninsured,estimate,875,2018
+11375,11606,Indiana,Any coverage,estimate,6047,2018
+11376,11607,Indiana,Uninsured,estimate,545,2018
+11386,11617,Iowa,Any coverage,estimate,2966,2018
+11387,11618,Iowa,Uninsured,estimate,147,2018
+11397,11628,Kansas,Any coverage,estimate,2604,2018
+11398,11629,Kansas,Uninsured,estimate,250,2018
+11408,11639,Kentucky,Any coverage,estimate,4141,2018
+11409,11640,Kentucky,Uninsured,estimate,248,2018
+11419,11650,Louisiana,Any coverage,estimate,4193,2018
+11420,11651,Louisiana,Uninsured,estimate,363,2018
+11430,11661,Maine,Any coverage,estimate,1217,2018
+11431,11662,Maine,Uninsured,estimate,106,2018
+11441,11672,Maryland,Any coverage,estimate,5586,2018
+11442,11673,Maryland,Uninsured,estimate,357,2018
+11452,11683,Massachusetts,Any coverage,estimate,6642,2018
+11453,11684,Massachusetts,Uninsured,estimate,189,2018
+11463,11694,Michigan,Any coverage,estimate,9354,2018
+11464,11695,Michigan,Uninsured,estimate,535,2018
+11474,11705,Minnesota,Any coverage,estimate,5309,2018
+11475,11706,Minnesota,Uninsured,estimate,244,2018
+11485,11716,Mississippi,Any coverage,estimate,2566,2018
+11486,11717,Mississippi,Uninsured,estimate,354,2018
+11496,11727,Missouri,Any coverage,estimate,5448,2018
+11497,11728,Missouri,Uninsured,estimate,566,2018
+11507,11738,Montana,Any coverage,estimate,961,2018
+11508,11739,Montana,Uninsured,estimate,86,2018
+11518,11749,Nebraska,Any coverage,estimate,1743,2018
+11519,11750,Nebraska,Uninsured,estimate,158,2018
+11529,11760,Nevada,Any coverage,estimate,2662,2018
+11530,11761,Nevada,Uninsured,estimate,336,2018
+11540,11771,New Hampshire,Any coverage,estimate,1263,2018
+11541,11772,New Hampshire,Uninsured,estimate,77,2018
+11551,11782,New Jersey,Any coverage,estimate,8149,2018
+11552,11783,New Jersey,Uninsured,estimate,655,2018
+11562,11793,New Mexico,Any coverage,estimate,1864,2018
+11563,11794,New Mexico,Uninsured,estimate,196,2018
+11573,11804,New York,Any coverage,estimate,18260,2018
+11574,11805,New York,Uninsured,estimate,1041,2018
+11584,11815,North Carolina,Any coverage,estimate,9092,2018
+11585,11816,North Carolina,Uninsured,estimate,1092,2018
+11595,11826,North Dakota,Any coverage,estimate,690,2018
+11596,11827,North Dakota,Uninsured,estimate,54,2018
+11606,11837,Ohio,Any coverage,estimate,10770,2018
+11607,11838,Ohio,Uninsured,estimate,744,2018
+11617,11848,Oklahoma,Any coverage,estimate,3313,2018
+11618,11849,Oklahoma,Uninsured,estimate,548,2018
+11628,11859,Oregon,Any coverage,estimate,3858,2018
+11629,11860,Oregon,Uninsured,estimate,293,2018
+11639,11870,Pennsylvania,Any coverage,estimate,11910,2018
+11640,11871,Pennsylvania,Uninsured,estimate,699,2018
+11650,11881,Rhode Island,Any coverage,estimate,999,2018
+11651,11882,Rhode Island,Uninsured,estimate,42,2018
+11661,11892,South Carolina,Any coverage,estimate,4468,2018
+11662,11893,South Carolina,Uninsured,estimate,522,2018
+11672,11903,South Dakota,Any coverage,estimate,780,2018
+11673,11904,South Dakota,Uninsured,estimate,85,2018
+11683,11914,Tennessee,Any coverage,estimate,5993,2018
+11684,11915,Tennessee,Uninsured,estimate,675,2018
+11694,11925,Texas,Any coverage,estimate,23240,2018
+11695,11926,Texas,Uninsured,estimate,5003,2018
+11705,11936,Utah,Any coverage,estimate,2840,2018
+11706,11937,Utah,Uninsured,estimate,295,2018
+11716,11947,Vermont,Any coverage,estimate,595,2018
+11717,11948,Vermont,Uninsured,estimate,25,2018
+11727,11958,Virginia,Any coverage,estimate,7570,2018
+11728,11959,Virginia,Uninsured,estimate,731,2018
+11738,11969,Washington,Any coverage,estimate,6950,2018
+11739,11970,Washington,Uninsured,estimate,477,2018
+11749,11980,West Virginia,Any coverage,estimate,1663,2018
+11750,11981,West Virginia,Uninsured,estimate,114,2018
+11760,11991,Wisconsin,Any coverage,estimate,5428,2018
+11761,11992,Wisconsin,Uninsured,estimate,313,2018
+11771,12002,Wyoming,Any coverage,estimate,508,2018
+11772,12003,Wyoming,Uninsured,estimate,59,2018
+13465,13740,Alabama,Any coverage,estimate,4345,2017
+13466,13741,Alabama,Uninsured,estimate,449,2017
+13476,13751,Alaska,Any coverage,estimate,618,2017
+13477,13752,Alaska,Uninsured,estimate,98,2017
+13487,13762,Arizona,Any coverage,estimate,6213,2017
+13488,13763,Arizona,Uninsured,estimate,695,2017
+13498,13773,Arkansas,Any coverage,estimate,2718,2017
+13499,13774,Arkansas,Uninsured,estimate,232,2017
+13509,13784,California,Any coverage,estimate,36250,2017
+13510,13785,California,Uninsured,estimate,2797,2017
+13520,13795,Colorado,Any coverage,estimate,5100,2017
+13521,13796,Colorado,Uninsured,estimate,414,2017
+13531,13806,Connecticut,Any coverage,estimate,3343,2017
+13532,13807,Connecticut,Uninsured,estimate,194,2017
+13542,13817,Delaware,Any coverage,estimate,896,2017
+13543,13818,Delaware,Uninsured,estimate,51,2017
+13553,13828,District of Columbia,Any coverage,estimate,658,2017
+13554,13829,District of Columbia,Uninsured,estimate,26,2017
+13564,13839,Florida,Any coverage,estimate,18000,2017
+13565,13840,Florida,Uninsured,estimate,2676,2017
+13575,13850,Georgia,Any coverage,estimate,8866,2017
+13576,13851,Georgia,Uninsured,estimate,1375,2017
+13586,13861,Hawaii,Any coverage,estimate,1320,2017
+13587,13862,Hawaii,Uninsured,estimate,53,2017
+13597,13872,Idaho,Any coverage,estimate,1523,2017
+13598,13873,Idaho,Uninsured,estimate,172,2017
+13608,13883,Illinois,Any coverage,estimate,11760,2017
+13609,13884,Illinois,Uninsured,estimate,859,2017
+13619,13894,Indiana,Any coverage,estimate,6032,2017
+13620,13895,Indiana,Uninsured,estimate,536,2017
+13630,13905,Iowa,Any coverage,estimate,2956,2017
+13631,13906,Iowa,Uninsured,estimate,146,2017
+13641,13916,Kansas,Any coverage,estimate,2606,2017
+13642,13917,Kansas,Uninsured,estimate,249,2017
+13652,13927,Kentucky,Any coverage,estimate,4136,2017
+13653,13928,Kentucky,Uninsured,estimate,235,2017
+13663,13938,Louisiana,Any coverage,estimate,4198,2017
+13664,13939,Louisiana,Uninsured,estimate,383,2017
+13674,13949,Maine,Any coverage,estimate,1215,2017
+13675,13950,Maine,Uninsured,estimate,107,2017
+13685,13960,Maryland,Any coverage,estimate,5592,2017
+13686,13961,Maryland,Uninsured,estimate,366,2017
+13696,13971,Massachusetts,Any coverage,estimate,6596,2017
+13697,13972,Massachusetts,Uninsured,estimate,190,2017
+13707,13982,Michigan,Any coverage,estimate,9344,2017
+13708,13983,Michigan,Uninsured,estimate,510,2017
+13718,13993,Minnesota,Any coverage,estimate,5277,2017
+13719,13994,Minnesota,Uninsured,estimate,243,2017
+13729,14004,Mississippi,Any coverage,estimate,2569,2017
+13730,14005,Mississippi,Uninsured,estimate,352,2017
+13740,14015,Missouri,Any coverage,estimate,5452,2017
+13741,14016,Missouri,Uninsured,estimate,548,2017
+13751,14026,Montana,Any coverage,estimate,949,2017
+13752,14027,Montana,Uninsured,estimate,88,2017
+13762,14037,Nebraska,Any coverage,estimate,1735,2017
+13763,14038,Nebraska,Uninsured,estimate,157,2017
+13773,14048,Nevada,Any coverage,estimate,2630,2017
+13774,14049,Nevada,Uninsured,estimate,333,2017
+13784,14059,New Hampshire,Any coverage,estimate,1248,2017
+13785,14060,New Hampshire,Uninsured,estimate,77,2017
+13795,14070,New Jersey,Any coverage,estimate,8214,2017
+13796,14071,New Jersey,Uninsured,estimate,688,2017
+13806,14081,New Mexico,Any coverage,estimate,1867,2017
+13807,14082,New Mexico,Uninsured,estimate,187,2017
+13817,14092,New York,Any coverage,estimate,18500,2017
+13818,14093,New York,Uninsured,estimate,1113,2017
+13828,14103,North Carolina,Any coverage,estimate,8995,2017
+13829,14104,North Carolina,Uninsured,estimate,1076,2017
+13839,14114,North Dakota,Any coverage,estimate,683,2017
+13840,14115,North Dakota,Uninsured,estimate,56,2017
+13850,14125,Ohio,Any coverage,estimate,10800,2017
+13851,14126,Ohio,Uninsured,estimate,686,2017
+13861,14136,Oklahoma,Any coverage,estimate,3306,2017
+13862,14137,Oklahoma,Uninsured,estimate,545,2017
+13872,14147,Oregon,Any coverage,estimate,3822,2017
+13873,14148,Oregon,Uninsured,estimate,281,2017
+13883,14158,Pennsylvania,Any coverage,estimate,11910,2017
+13884,14159,Pennsylvania,Uninsured,estimate,692,2017
+13894,14169,Rhode Island,Any coverage,estimate,996,2017
+13895,14170,Rhode Island,Uninsured,estimate,48,2017
+13905,14180,South Carolina,Any coverage,estimate,4387,2017
+13906,14181,South Carolina,Uninsured,estimate,542,2017
+13916,14191,South Dakota,Any coverage,estimate,774,2017
+13917,14192,South Dakota,Uninsured,estimate,77,2017
+13927,14202,Tennessee,Any coverage,estimate,5983,2017
+13928,14203,Tennessee,Uninsured,estimate,629,2017
+13938,14213,Texas,Any coverage,estimate,23020,2017
+13939,14214,Texas,Uninsured,estimate,4817,2017
+13949,14224,Utah,Any coverage,estimate,2795,2017
+13950,14225,Utah,Uninsured,estimate,282,2017
+13960,14235,Vermont,Any coverage,estimate,589,2017
+13961,14236,Vermont,Uninsured,estimate,28,2017
+13971,14246,Virginia,Any coverage,estimate,7528,2017
+13972,14247,Virginia,Uninsured,estimate,729,2017
+13982,14257,Washington,Any coverage,estimate,6854,2017
+13983,14258,Washington,Uninsured,estimate,446,2017
+13993,14268,West Virginia,Any coverage,estimate,1678,2017
+13994,14269,West Virginia,Uninsured,estimate,109,2017
+14004,14279,Wisconsin,Any coverage,estimate,5415,2017
+14005,14280,Wisconsin,Uninsured,estimate,309,2017
+14015,14290,Wyoming,Any coverage,estimate,499,2017
+14016,14291,Wyoming,Uninsured,estimate,70,2017
+15709,16028,Alabama,Any coverage,estimate,4348,2016
+15710,16029,Alabama,Uninsured,estimate,435,2016
+15720,16039,Alaska,Any coverage,estimate,618,2016
+15721,16040,Alaska,Uninsured,estimate,101,2016
+15731,16050,Arizona,Any coverage,estimate,6143,2016
+15732,16051,Arizona,Uninsured,estimate,681,2016
+15742,16061,Arkansas,Any coverage,estimate,2702,2016
+15743,16062,Arkansas,Uninsured,estimate,232,2016
+15753,16072,California,Any coverage,estimate,35920,2016
+15754,16073,California,Uninsured,estimate,2844,2016
+15764,16083,Colorado,Any coverage,estimate,5038,2016
+15765,16084,Colorado,Uninsured,estimate,410,2016
+15775,16094,Connecticut,Any coverage,estimate,3353,2016
+15776,16095,Connecticut,Uninsured,estimate,172,2016
+15786,16105,Delaware,Any coverage,estimate,885,2016
+15787,16106,Delaware,Uninsured,estimate,53,2016
+15797,16116,District of Columbia,Any coverage,estimate,645,2016
+15798,16117,District of Columbia,Uninsured,estimate,26,2016
+15808,16127,Florida,Any coverage,estimate,17750,2016
+15809,16128,Florida,Uninsured,estimate,2544,2016
+15819,16138,Georgia,Any coverage,estimate,8811,2016
+15820,16139,Georgia,Uninsured,estimate,1310,2016
+15830,16149,Hawaii,Any coverage,estimate,1330,2016
+15831,16150,Hawaii,Uninsured,estimate,49,2016
+15841,16160,Idaho,Any coverage,estimate,1495,2016
+15842,16161,Idaho,Uninsured,estimate,168,2016
+15852,16171,Illinois,Any coverage,estimate,11800,2016
+15853,16172,Illinois,Uninsured,estimate,817,2016
+15863,16182,Indiana,Any coverage,estimate,6005,2016
+15864,16183,Indiana,Uninsured,estimate,530,2016
+15874,16193,Iowa,Any coverage,estimate,2960,2016
+15875,16194,Iowa,Uninsured,estimate,132,2016
+15885,16204,Kansas,Any coverage,estimate,2602,2016
+15886,16205,Kansas,Uninsured,estimate,249,2016
+15896,16215,Kentucky,Any coverage,estimate,4131,2016
+15897,16216,Kentucky,Uninsured,estimate,223,2016
+15907,16226,Louisiana,Any coverage,estimate,4107,2016
+15908,16227,Louisiana,Uninsured,estimate,470,2016
+15918,16237,Maine,Any coverage,estimate,1211,2016
+15919,16238,Maine,Uninsured,estimate,106,2016
+15929,16248,Maryland,Any coverage,estimate,5555,2016
+15930,16249,Maryland,Uninsured,estimate,363,2016
+15940,16259,Massachusetts,Any coverage,estimate,6565,2016
+15941,16260,Massachusetts,Uninsured,estimate,171,2016
+15951,16270,Michigan,Any coverage,estimate,9291,2016
+15952,16271,Michigan,Uninsured,estimate,527,2016
+15962,16281,Minnesota,Any coverage,estimate,5237,2016
+15963,16282,Minnesota,Uninsured,estimate,225,2016
+15973,16292,Mississippi,Any coverage,estimate,2578,2016
+15974,16293,Mississippi,Uninsured,estimate,346,2016
+15984,16303,Missouri,Any coverage,estimate,5445,2016
+15985,16304,Missouri,Uninsured,estimate,532,2016
+15995,16314,Montana,Any coverage,estimate,944,2016
+15996,16315,Montana,Uninsured,estimate,83,2016
+16006,16325,Nebraska,Any coverage,estimate,1717,2016
+16007,16326,Nebraska,Uninsured,estimate,161,2016
+16017,16336,Nevada,Any coverage,estimate,2575,2016
+16018,16337,Nevada,Uninsured,estimate,330,2016
+16028,16347,New Hampshire,Any coverage,estimate,1239,2016
+16029,16348,New Hampshire,Uninsured,estimate,78,2016
+16039,16358,New Jersey,Any coverage,estimate,8133,2016
+16040,16359,New Jersey,Uninsured,estimate,705,2016
+16050,16369,New Mexico,Any coverage,estimate,1858,2016
+16051,16370,New Mexico,Uninsured,estimate,188,2016
+16061,16380,New York,Any coverage,estimate,18320,2016
+16062,16381,New York,Uninsured,estimate,1183,2016
+16072,16391,North Carolina,Any coverage,estimate,8919,2016
+16073,16392,North Carolina,Uninsured,estimate,1038,2016
+16083,16402,North Dakota,Any coverage,estimate,689,2016
+16084,16403,North Dakota,Uninsured,estimate,52,2016
+16094,16413,Ohio,Any coverage,estimate,10800,2016
+16095,16414,Ohio,Uninsured,estimate,644,2016
+16105,16424,Oklahoma,Any coverage,estimate,3316,2016
+16106,16425,Oklahoma,Uninsured,estimate,530,2016
+16116,16435,Oregon,Any coverage,estimate,3802,2016
+16117,16436,Oregon,Uninsured,estimate,253,2016
+16127,16446,Pennsylvania,Any coverage,estimate,11870,2016
+16128,16447,Pennsylvania,Uninsured,estimate,708,2016
+16138,16457,Rhode Island,Any coverage,estimate,995,2016
+16139,16458,Rhode Island,Uninsured,estimate,45,2016
+16149,16468,South Carolina,Any coverage,estimate,4375,2016
+16150,16469,South Carolina,Uninsured,estimate,486,2016
+16160,16479,South Dakota,Any coverage,estimate,775,2016
+16161,16480,South Dakota,Uninsured,estimate,74,2016
+16171,16490,Tennessee,Any coverage,estimate,5955,2016
+16172,16491,Tennessee,Uninsured,estimate,592,2016
+16182,16501,Texas,Any coverage,estimate,22840,2016
+16183,16502,Texas,Uninsured,estimate,4545,2016
+16193,16512,Utah,Any coverage,estimate,2760,2016
+16194,16513,Utah,Uninsured,estimate,265,2016
+16204,16523,Vermont,Any coverage,estimate,596,2016
+16205,16524,Vermont,Uninsured,estimate,23,2016
+16215,16534,Virginia,Any coverage,estimate,7485,2016
+16216,16535,Virginia,Uninsured,estimate,715,2016
+16226,16545,Washington,Any coverage,estimate,6756,2016
+16227,16546,Washington,Uninsured,estimate,428,2016
+16237,16556,West Virginia,Any coverage,estimate,1707,2016
+16238,16557,West Virginia,Uninsured,estimate,96,2016
+16248,16567,Wisconsin,Any coverage,estimate,5406,2016
+16249,16568,Wisconsin,Uninsured,estimate,300,2016
+16259,16578,Wyoming,Any coverage,estimate,510,2016
+16260,16579,Wyoming,Uninsured,estimate,67,2016
+17953,18316,Alabama,Any coverage,estimate,4297,2015
+17954,18317,Alabama,Uninsured,estimate,484,2015
+17964,18327,Alaska,Any coverage,estimate,607,2015
+17965,18328,Alaska,Uninsured,estimate,106,2015
+17975,18338,Arizona,Any coverage,estimate,5991,2015
+17976,18339,Arizona,Uninsured,estimate,728,2015
+17986,18349,Arkansas,Any coverage,estimate,2647,2015
+17987,18350,Arkansas,Uninsured,estimate,278,2015
+17997,18360,California,Any coverage,estimate,35330,2015
+17998,18361,California,Uninsured,estimate,3317,2015
+18008,18371,Colorado,Any coverage,estimate,4935,2015
+18009,18372,Colorado,Uninsured,estimate,433,2015
+18019,18382,Connecticut,Any coverage,estimate,3327,2015
+18020,18383,Connecticut,Uninsured,estimate,211,2015
+18030,18393,Delaware,Any coverage,estimate,877,2015
+18031,18394,Delaware,Uninsured,estimate,54,2015
+18041,18404,District of Columbia,Any coverage,estimate,636,2015
+18042,18405,District of Columbia,Uninsured,estimate,25,2015
+18052,18415,Florida,Any coverage,estimate,17300,2015
+18053,18416,Florida,Uninsured,estimate,2662,2015
+18063,18426,Georgia,Any coverage,estimate,8636,2015
+18064,18427,Georgia,Uninsured,estimate,1388,2015
+18074,18437,Hawaii,Any coverage,estimate,1321,2015
+18075,18438,Hawaii,Uninsured,estimate,55,2015
+18085,18448,Idaho,Any coverage,estimate,1452,2015
+18086,18449,Idaho,Uninsured,estimate,180,2015
+18096,18459,Illinois,Any coverage,estimate,11780,2015
+18097,18460,Illinois,Uninsured,estimate,900,2015
+18107,18470,Indiana,Any coverage,estimate,5893,2015
+18108,18471,Indiana,Uninsured,estimate,628,2015
+18118,18481,Iowa,Any coverage,estimate,2925,2015
+18119,18482,Iowa,Uninsured,estimate,155,2015
+18129,18492,Kansas,Any coverage,estimate,2590,2015
+18130,18493,Kansas,Uninsured,estimate,261,2015
+18140,18503,Kentucky,Any coverage,estimate,4081,2015
+18141,18504,Kentucky,Uninsured,estimate,261,2015
+18151,18514,Louisiana,Any coverage,estimate,4022,2015
+18152,18515,Louisiana,Uninsured,estimate,546,2015
+18162,18525,Maine,Any coverage,estimate,1204,2015
+18163,18526,Maine,Uninsured,estimate,111,2015
+18173,18536,Maryland,Any coverage,estimate,5519,2015
+18174,18537,Maryland,Uninsured,estimate,389,2015
+18184,18547,Massachusetts,Any coverage,estimate,6529,2015
+18185,18548,Massachusetts,Uninsured,estimate,189,2015
+18195,18558,Michigan,Any coverage,estimate,9214,2015
+18196,18559,Michigan,Uninsured,estimate,597,2015
+18206,18569,Minnesota,Any coverage,estimate,5187,2015
+18207,18570,Minnesota,Uninsured,estimate,245,2015
+18217,18580,Mississippi,Any coverage,estimate,2556,2015
+18218,18581,Mississippi,Uninsured,estimate,372,2015
+18228,18591,Missouri,Any coverage,estimate,5386,2015
+18229,18592,Missouri,Uninsured,estimate,583,2015
+18239,18602,Montana,Any coverage,estimate,899,2015
+18240,18603,Montana,Uninsured,estimate,119,2015
+18250,18613,Nebraska,Any coverage,estimate,1713,2015
+18251,18614,Nebraska,Uninsured,estimate,154,2015
+18261,18624,Nevada,Any coverage,estimate,2505,2015
+18262,18625,Nevada,Uninsured,estimate,351,2015
+18272,18635,New Hampshire,Any coverage,estimate,1231,2015
+18273,18636,New Hampshire,Uninsured,estimate,83,2015
+18283,18646,New Jersey,Any coverage,estimate,8079,2015
+18284,18647,New Jersey,Uninsured,estimate,771,2015
+18294,18657,New Mexico,Any coverage,estimate,1826,2015
+18295,18658,New Mexico,Uninsured,estimate,224,2015
+18305,18668,New York,Any coverage,estimate,18180,2015
+18306,18669,New York,Uninsured,estimate,1381,2015
+18316,18679,North Carolina,Any coverage,estimate,8753,2015
+18317,18680,North Carolina,Uninsured,estimate,1103,2015
+18327,18690,North Dakota,Any coverage,estimate,683,2015
+18328,18691,North Dakota,Uninsured,estimate,57,2015
+18338,18701,Ohio,Any coverage,estimate,10700,2015
+18339,18702,Ohio,Uninsured,estimate,746,2015
+18349,18712,Oklahoma,Any coverage,estimate,3298,2015
+18350,18713,Oklahoma,Uninsured,estimate,533,2015
+18360,18723,Oregon,Any coverage,estimate,3711,2015
+18361,18724,Oregon,Uninsured,estimate,280,2015
+18371,18734,Pennsylvania,Any coverage,estimate,11800,2015
+18372,18735,Pennsylvania,Uninsured,estimate,802,2015
+18382,18745,Rhode Island,Any coverage,estimate,982,2015
+18383,18746,Rhode Island,Uninsured,estimate,59,2015
+18393,18756,South Carolina,Any coverage,estimate,4278,2015
+18394,18757,South Carolina,Uninsured,estimate,523,2015
+18404,18767,South Dakota,Any coverage,estimate,755,2015
+18405,18768,South Dakota,Uninsured,estimate,86,2015
+18415,18778,Tennessee,Any coverage,estimate,5829,2015
+18416,18779,Tennessee,Uninsured,estimate,667,2015
+18426,18789,Texas,Any coverage,estimate,22380,2015
+18427,18790,Texas,Uninsured,estimate,4615,2015
+18437,18800,Utah,Any coverage,estimate,2660,2015
+18438,18801,Utah,Uninsured,estimate,311,2015
+18448,18811,Vermont,Any coverage,estimate,596,2015
+18449,18812,Vermont,Uninsured,estimate,24,2015
+18459,18822,Virginia,Any coverage,estimate,7416,2015
+18460,18823,Virginia,Uninsured,estimate,746,2015
+18470,18833,Washington,Any coverage,estimate,6599,2015
+18471,18834,Washington,Uninsured,estimate,468,2015
+18481,18844,West Virginia,Any coverage,estimate,1707,2015
+18482,18845,West Virginia,Uninsured,estimate,108,2015
+18492,18855,Wisconsin,Any coverage,estimate,5376,2015
+18493,18856,Wisconsin,Uninsured,estimate,323,2015
+18503,18866,Wyoming,Any coverage,estimate,510,2015
+18504,18867,Wyoming,Uninsured,estimate,66,2015
+20197,20604,Alabama,Any coverage,estimate,4188,2014
+20198,20605,Alabama,Uninsured,estimate,579,2014
+20208,20615,Alaska,Any coverage,estimate,589,2014
+20209,20616,Alaska,Uninsured,estimate,122,2014
+20219,20626,Arizona,Any coverage,estimate,5720,2014
+20220,20627,Arizona,Uninsured,estimate,903,2014
+20230,20637,Arkansas,Any coverage,estimate,2571,2014
+20231,20638,Arkansas,Uninsured,estimate,343,2014
+20241,20648,California,Any coverage,estimate,33530,2014
+20242,20649,California,Uninsured,estimate,4767,2014
+20252,20659,Colorado,Any coverage,estimate,4723,2014
+20253,20660,Colorado,Uninsured,estimate,543,2014
+20263,20670,Connecticut,Any coverage,estimate,3296,2014
+20264,20671,Connecticut,Uninsured,estimate,245,2014
+20274,20681,Delaware,Any coverage,estimate,849,2014
+20275,20682,Delaware,Uninsured,estimate,72,2014
+20285,20692,District of Columbia,Any coverage,estimate,614,2014
+20286,20693,District of Columbia,Uninsured,estimate,34,2014
+20296,20703,Florida,Any coverage,estimate,16340,2014
+20297,20704,Florida,Uninsured,estimate,3245,2014
+20307,20714,Georgia,Any coverage,estimate,8338,2014
+20308,20715,Georgia,Uninsured,estimate,1568,2014
+20318,20725,Hawaii,Any coverage,estimate,1296,2014
+20319,20726,Hawaii,Uninsured,estimate,72,2014
+20329,20736,Idaho,Any coverage,estimate,1394,2014
+20330,20737,Idaho,Uninsured,estimate,219,2014
+20340,20747,Illinois,Any coverage,estimate,11460,2014
+20341,20748,Illinois,Uninsured,estimate,1238,2014
+20351,20758,Indiana,Any coverage,estimate,5722,2014
+20352,20759,Indiana,Uninsured,estimate,776,2014
+20362,20769,Iowa,Any coverage,estimate,2874,2014
+20363,20770,Iowa,Uninsured,estimate,189,2014
+20373,20780,Kansas,Any coverage,estimate,2554,2014
+20374,20781,Kansas,Uninsured,estimate,291,2014
+20384,20791,Kentucky,Any coverage,estimate,3962,2014
+20385,20792,Kentucky,Uninsured,estimate,366,2014
+20395,20802,Louisiana,Any coverage,estimate,3876,2014
+20396,20803,Louisiana,Uninsured,estimate,672,2014
+20406,20813,Maine,Any coverage,estimate,1182,2014
+20407,20814,Maine,Uninsured,estimate,134,2014
+20417,20824,Maryland,Any coverage,estimate,5423,2014
+20418,20825,Maryland,Uninsured,estimate,463,2014
+20428,20835,Massachusetts,Any coverage,estimate,6450,2014
+20429,20836,Massachusetts,Uninsured,estimate,219,2014
+20439,20846,Michigan,Any coverage,estimate,8962,2014
+20440,20847,Michigan,Uninsured,estimate,837,2014
+20450,20857,Minnesota,Any coverage,estimate,5081,2014
+20451,20858,Minnesota,Uninsured,estimate,317,2014
+20461,20868,Mississippi,Any coverage,estimate,2503,2014
+20462,20869,Mississippi,Uninsured,estimate,424,2014
+20472,20879,Missouri,Any coverage,estimate,5257,2014
+20473,20880,Missouri,Uninsured,estimate,694,2014
+20483,20890,Montana,Any coverage,estimate,865,2014
+20484,20891,Montana,Uninsured,estimate,143,2014
+20494,20901,Nebraska,Any coverage,estimate,1674,2014
+20495,20902,Nebraska,Uninsured,estimate,179,2014
+20505,20912,Nevada,Any coverage,estimate,2379,2014
+20506,20913,Nevada,Uninsured,estimate,427,2014
+20516,20923,New Hampshire,Any coverage,estimate,1191,2014
+20517,20924,New Hampshire,Uninsured,estimate,120,2014
+20527,20934,New Jersey,Any coverage,estimate,7866,2014
+20528,20935,New Jersey,Uninsured,estimate,965,2014
+20538,20945,New Mexico,Any coverage,estimate,1753,2014
+20539,20946,New Mexico,Uninsured,estimate,298,2014
+20549,20956,New York,Any coverage,estimate,17800,2014
+20550,20957,New York,Uninsured,estimate,1697,2014
+20560,20967,North Carolina,Any coverage,estimate,8476,2014
+20561,20968,North Carolina,Uninsured,estimate,1276,2014
+20571,20978,North Dakota,Any coverage,estimate,668,2014
+20572,20979,North Dakota,Uninsured,estimate,57,2014
+20582,20989,Ohio,Any coverage,estimate,10470,2014
+20583,20990,Ohio,Uninsured,estimate,955,2014
+20593,21000,Oklahoma,Any coverage,estimate,3214,2014
+20594,21001,Oklahoma,Uninsured,estimate,584,2014
+20604,21011,Oregon,Any coverage,estimate,3549,2014
+20605,21012,Oregon,Uninsured,estimate,383,2014
+20615,21022,Pennsylvania,Any coverage,estimate,11520,2014
+20616,21023,Pennsylvania,Uninsured,estimate,1065,2014
+20626,21033,Rhode Island,Any coverage,estimate,963,2014
+20627,21034,Rhode Island,Uninsured,estimate,77,2014
+20637,21044,South Carolina,Any coverage,estimate,4092,2014
+20638,21045,South Carolina,Uninsured,estimate,642,2014
+20648,21055,South Dakota,Any coverage,estimate,753,2014
+20649,21056,South Dakota,Uninsured,estimate,82,2014
+20659,21066,Tennessee,Any coverage,estimate,5672,2014
+20660,21067,Tennessee,Uninsured,estimate,776,2014
+20670,21077,Texas,Any coverage,estimate,21440,2014
+20671,21078,Texas,Uninsured,estimate,5047,2014
+20681,21088,Utah,Any coverage,estimate,2551,2014
+20682,21089,Utah,Uninsured,estimate,366,2014
+20692,21099,Vermont,Any coverage,estimate,590,2014
+20693,21100,Vermont,Uninsured,estimate,31,2014
+20703,21110,Virginia,Any coverage,estimate,7231,2014
+20704,21111,Virginia,Uninsured,estimate,884,2014
+20714,21121,Washington,Any coverage,estimate,6312,2014
+20715,21122,Washington,Uninsured,estimate,643,2014
+20725,21132,West Virginia,Any coverage,estimate,1665,2014
+20726,21133,West Virginia,Uninsured,estimate,156,2014
+20736,21143,Wisconsin,Any coverage,estimate,5267,2014
+20737,21144,Wisconsin,Uninsured,estimate,418,2014
+20747,21154,Wyoming,Any coverage,estimate,506,2014
+20748,21155,Wyoming,Uninsured,estimate,69,2014
+22441,22892,Alabama,Any coverage,estimate,4110,2013
+22442,22893,Alabama,Uninsured,estimate,645,2013
+22452,22903,Alaska,Any coverage,estimate,580,2013
+22453,22904,Alaska,Uninsured,estimate,132,2013
+22463,22914,Arizona,Any coverage,estimate,5403,2013
+22464,22915,Arizona,Uninsured,estimate,1118,2013
+22474,22925,Arkansas,Any coverage,estimate,2442,2013
+22475,22926,Arkansas,Uninsured,estimate,465,2013
+22485,22936,California,Any coverage,estimate,31330,2013
+22486,22937,California,Uninsured,estimate,6500,2013
+22496,22947,Colorado,Any coverage,estimate,4444,2013
+22497,22948,Colorado,Uninsured,estimate,729,2013
+22507,22958,Connecticut,Any coverage,estimate,3209,2013
+22508,22959,Connecticut,Uninsured,estimate,333,2013
+22518,22969,Delaware,Any coverage,estimate,828,2013
+22519,22970,Delaware,Uninsured,estimate,83,2013
+22529,22980,District of Columbia,Any coverage,estimate,594,2013
+22530,22981,District of Columbia,Uninsured,estimate,42,2013
+22540,22991,Florida,Any coverage,estimate,15390,2013
+22541,22992,Florida,Uninsured,estimate,3853,2013
+22551,23002,Georgia,Any coverage,estimate,7955,2013
+22552,23003,Georgia,Uninsured,estimate,1846,2013
+22562,23013,Hawaii,Any coverage,estimate,1254,2013
+22563,23014,Hawaii,Uninsured,estimate,91,2013
+22573,23024,Idaho,Any coverage,estimate,1335,2013
+22574,23025,Idaho,Uninsured,estimate,257,2013
+22584,23035,Illinois,Any coverage,estimate,11090,2013
+22585,23036,Illinois,Uninsured,estimate,1618,2013
+22595,23046,Indiana,Any coverage,estimate,5569,2013
+22596,23047,Indiana,Uninsured,estimate,903,2013
+22606,23057,Iowa,Any coverage,estimate,2798,2013
+22607,23058,Iowa,Uninsured,estimate,248,2013
+22617,23068,Kansas,Any coverage,estimate,2489,2013
+22618,23069,Kansas,Uninsured,estimate,348,2013
+22628,23079,Kentucky,Any coverage,estimate,3696,2013
+22629,23080,Kentucky,Uninsured,estimate,616,2013
+22639,23090,Louisiana,Any coverage,estimate,3772,2013
+22640,23091,Louisiana,Uninsured,estimate,751,2013
+22650,23101,Maine,Any coverage,estimate,1167,2013
+22651,23102,Maine,Uninsured,estimate,147,2013
+22661,23112,Maryland,Any coverage,estimate,5241,2013
+22662,23113,Maryland,Uninsured,estimate,593,2013
+22672,23123,Massachusetts,Any coverage,estimate,6367,2013
+22673,23124,Massachusetts,Uninsured,estimate,247,2013
+22683,23134,Michigan,Any coverage,estimate,8713,2013
+22684,23135,Michigan,Uninsured,estimate,1072,2013
+22694,23145,Minnesota,Any coverage,estimate,4923,2013
+22695,23146,Minnesota,Uninsured,estimate,440,2013
+22705,23156,Mississippi,Any coverage,estimate,2425,2013
+22706,23157,Mississippi,Uninsured,estimate,500,2013
+22716,23167,Missouri,Any coverage,estimate,5158,2013
+22717,23168,Missouri,Uninsured,estimate,773,2013
+22727,23178,Montana,Any coverage,estimate,835,2013
+22728,23179,Montana,Uninsured,estimate,165,2013
+22738,23189,Nebraska,Any coverage,estimate,1632,2013
+22739,23190,Nebraska,Uninsured,estimate,209,2013
+22749,23200,Nevada,Any coverage,estimate,2187,2013
+22750,23201,Nevada,Uninsured,estimate,570,2013
+22760,23211,New Hampshire,Any coverage,estimate,1168,2013
+22761,23212,New Hampshire,Uninsured,estimate,140,2013
+22771,23222,New Jersey,Any coverage,estimate,7631,2013
+22772,23223,New Jersey,Uninsured,estimate,1160,2013
+22782,23233,New Mexico,Any coverage,estimate,1669,2013
+22783,23234,New Mexico,Uninsured,estimate,382,2013
+22793,23244,New York,Any coverage,estimate,17330,2013
+22794,23245,New York,Uninsured,estimate,2070,2013
+22804,23255,North Carolina,Any coverage,estimate,8136,2013
+22805,23256,North Carolina,Uninsured,estimate,1509,2013
+22815,23266,North Dakota,Any coverage,estimate,635,2013
+22816,23267,North Dakota,Uninsured,estimate,73,2013
+22826,23277,Ohio,Any coverage,estimate,10140,2013
+22827,23278,Ohio,Uninsured,estimate,1258,2013
+22837,23288,Oklahoma,Any coverage,estimate,3104,2013
+22838,23289,Oklahoma,Uninsured,estimate,666,2013
+22848,23299,Oregon,Any coverage,estimate,3322,2013
+22849,23300,Oregon,Uninsured,estimate,571,2013
+22859,23310,Pennsylvania,Any coverage,estimate,11350,2013
+22860,23311,Pennsylvania,Uninsured,estimate,1222,2013
+22870,23321,Rhode Island,Any coverage,estimate,916,2013
+22871,23322,Rhode Island,Uninsured,estimate,120,2013
+22881,23332,South Carolina,Any coverage,estimate,3939,2013
+22882,23333,South Carolina,Uninsured,estimate,739,2013
+22892,23343,South Dakota,Any coverage,estimate,734,2013
+22893,23344,South Dakota,Uninsured,estimate,93,2013
+22903,23354,Tennessee,Any coverage,estimate,5508,2013
+22904,23355,Tennessee,Uninsured,estimate,887,2013
+22914,23365,Texas,Any coverage,estimate,20230,2013
+22915,23366,Texas,Uninsured,estimate,5748,2013
+22925,23376,Utah,Any coverage,estimate,2472,2013
+22926,23377,Utah,Uninsured,estimate,402,2013
+22936,23387,Vermont,Any coverage,estimate,576,2013
+22937,23388,Vermont,Uninsured,estimate,45,2013
+22947,23398,Virginia,Any coverage,estimate,7064,2013
+22948,23399,Virginia,Uninsured,estimate,991,2013
+22958,23409,Washington,Any coverage,estimate,5904,2013
+22959,23410,Washington,Uninsured,estimate,960,2013
+22969,23420,West Virginia,Any coverage,estimate,1570,2013
+22970,23421,West Virginia,Uninsured,estimate,255,2013
+22980,23431,Wisconsin,Any coverage,estimate,5151,2013
+22981,23432,Wisconsin,Uninsured,estimate,518,2013
+22991,23442,Wyoming,Any coverage,estimate,496,2013
+22992,23443,Wyoming,Uninsured,estimate,77,2013
+24685,25180,Alabama,Any coverage,estimate,4109,2012
+24686,25181,Alabama,Uninsured,estimate,632,2012
+24696,25191,Alaska,Any coverage,estimate,564,2012
+24697,25192,Alaska,Uninsured,estimate,145,2012
+24707,25202,Arizona,Any coverage,estimate,5313,2012
+24708,25203,Arizona,Uninsured,estimate,1131,2012
+24718,25213,Arkansas,Any coverage,estimate,2420,2012
+24719,25214,Arkansas,Uninsured,estimate,476,2012
+24729,25224,California,Any coverage,estimate,30820,2012
+24730,25225,California,Uninsured,estimate,6710,2012
+24740,25235,Colorado,Any coverage,estimate,4344,2012
+24741,25236,Colorado,Uninsured,estimate,751,2012
+24751,25246,Connecticut,Any coverage,estimate,3213,2012
+24752,25247,Connecticut,Uninsured,estimate,322,2012
+24762,25257,Delaware,Any coverage,estimate,823,2012
+24763,25258,Delaware,Uninsured,estimate,80,2012
+24773,25268,District of Columbia,Any coverage,estimate,585,2012
+24774,25269,District of Columbia,Uninsured,estimate,37,2012
+24784,25279,Florida,Any coverage,estimate,15200,2012
+24785,25280,Florida,Uninsured,estimate,3816,2012
+24795,25290,Georgia,Any coverage,estimate,7927,2012
+24796,25291,Georgia,Uninsured,estimate,1792,2012
+24806,25301,Hawaii,Any coverage,estimate,1249,2012
+24807,25302,Hawaii,Uninsured,estimate,92,2012
+24817,25312,Idaho,Any coverage,estimate,1321,2012
+24818,25313,Idaho,Uninsured,estimate,255,2012
+24828,25323,Illinois,Any coverage,estimate,11080,2012
+24829,25324,Illinois,Uninsured,estimate,1622,2012
+24839,25334,Indiana,Any coverage,estimate,5517,2012
+24840,25335,Indiana,Uninsured,estimate,920,2012
+24850,25345,Iowa,Any coverage,estimate,2775,2012
+24851,25346,Iowa,Uninsured,estimate,254,2012
+24861,25356,Kansas,Any coverage,estimate,2470,2012
+24862,25357,Kansas,Uninsured,estimate,356,2012
+24872,25367,Kentucky,Any coverage,estimate,3697,2012
+24873,25368,Kentucky,Uninsured,estimate,595,2012
+24883,25378,Louisiana,Any coverage,estimate,3739,2012
+24884,25379,Louisiana,Uninsured,estimate,760,2012
+24894,25389,Maine,Any coverage,estimate,1181,2012
+24895,25390,Maine,Uninsured,estimate,135,2012
+24905,25400,Maryland,Any coverage,estimate,5191,2012
+24906,25401,Maryland,Uninsured,estimate,598,2012
+24916,25411,Massachusetts,Any coverage,estimate,6313,2012
+24917,25412,Massachusetts,Uninsured,estimate,254,2012
+24927,25422,Michigan,Any coverage,estimate,8658,2012
+24928,25423,Michigan,Uninsured,estimate,1114,2012
+24938,25433,Minnesota,Any coverage,estimate,4895,2012
+24939,25434,Minnesota,Uninsured,estimate,425,2012
+24949,25444,Mississippi,Any coverage,estimate,2421,2012
+24950,25445,Mississippi,Uninsured,estimate,498,2012
+24960,25455,Missouri,Any coverage,estimate,5107,2012
+24961,25456,Missouri,Uninsured,estimate,801,2012
+24971,25466,Montana,Any coverage,estimate,811,2012
+24972,25467,Montana,Uninsured,estimate,178,2012
+24982,25477,Nebraska,Any coverage,estimate,1621,2012
+24983,25478,Nebraska,Uninsured,estimate,206,2012
+24993,25488,Nevada,Any coverage,estimate,2121,2012
+24994,25489,Nevada,Uninsured,estimate,603,2012
+25004,25499,New Hampshire,Any coverage,estimate,1167,2012
+25005,25500,New Hampshire,Uninsured,estimate,139,2012
+25015,25510,New Jersey,Any coverage,estimate,7644,2012
+25016,25511,New Jersey,Uninsured,estimate,1113,2012
+25026,25521,New Mexico,Any coverage,estimate,1674,2012
+25027,25522,New Mexico,Uninsured,estimate,378,2012
+25037,25532,New York,Any coverage,estimate,17210,2012
+25038,25533,New York,Uninsured,estimate,2103,2012
+25048,25543,North Carolina,Any coverage,estimate,7970,2012
+25049,25544,North Carolina,Uninsured,estimate,1582,2012
+25059,25554,North Dakota,Any coverage,estimate,616,2012
+25060,25555,North Dakota,Uninsured,estimate,69,2012
+25070,25565,Ohio,Any coverage,estimate,10070,2012
+25071,25566,Ohio,Uninsured,estimate,1304,2012
+25081,25576,Oklahoma,Any coverage,estimate,3048,2012
+25082,25577,Oklahoma,Uninsured,estimate,685,2012
+25092,25587,Oregon,Any coverage,estimate,3284,2012
+25093,25588,Oregon,Uninsured,estimate,576,2012
+25103,25598,Pennsylvania,Any coverage,estimate,11340,2012
+25104,25599,Pennsylvania,Uninsured,estimate,1225,2012
+25114,25609,Rhode Island,Any coverage,estimate,920,2012
+25115,25610,Rhode Island,Uninsured,estimate,115,2012
+25125,25620,South Carolina,Any coverage,estimate,3845,2012
+25126,25621,South Carolina,Uninsured,estimate,778,2012
+25136,25631,South Dakota,Any coverage,estimate,722,2012
+25137,25632,South Dakota,Uninsured,estimate,94,2012
+25147,25642,Tennessee,Any coverage,estimate,5473,2012
+25148,25643,Tennessee,Uninsured,estimate,882,2012
+25158,25653,Texas,Any coverage,estimate,19820,2012
+25159,25654,Texas,Uninsured,estimate,5762,2012
+25169,25664,Utah,Any coverage,estimate,2420,2012
+25170,25665,Utah,Uninsured,estimate,409,2012
+25180,25675,Vermont,Any coverage,estimate,580,2012
+25181,25676,Vermont,Uninsured,estimate,40,2012
+25191,25686,Virginia,Any coverage,estimate,6974,2012
+25192,25687,Virginia,Uninsured,estimate,1000,2012
+25202,25697,Washington,Any coverage,estimate,5848,2012
+25203,25698,Washington,Uninsured,estimate,945,2012
+25213,25708,West Virginia,Any coverage,estimate,1563,2012
+25214,25709,West Virginia,Uninsured,estimate,264,2012
+25224,25719,Wisconsin,Any coverage,estimate,5146,2012
+25225,25720,Wisconsin,Uninsured,estimate,506,2012
+25235,25730,Wyoming,Any coverage,estimate,480,2012
+25236,25731,Wyoming,Uninsured,estimate,87,2012
+26929,27468,Alabama,Any coverage,estimate,4046,2011
+26930,27469,Alabama,Uninsured,estimate,674,2011
+26940,27479,Alaska,Any coverage,estimate,559,2011
+26941,27480,Alaska,Uninsured,estimate,141,2011
+26951,27490,Arizona,Any coverage,estimate,5283,2011
+26952,27491,Arizona,Uninsured,estimate,1095,2011
+26962,27501,Arkansas,Any coverage,estimate,2393,2011
+26963,27502,Arkansas,Uninsured,estimate,492,2011
+26973,27512,California,Any coverage,estimate,30440,2011
+26974,27513,California,Uninsured,estimate,6726,2011
+26984,27523,Colorado,Any coverage,estimate,4265,2011
+26985,27524,Colorado,Uninsured,estimate,760,2011
+26995,27534,Connecticut,Any coverage,estimate,3214,2011
+26996,27535,Connecticut,Uninsured,estimate,309,2011
+27006,27545,Delaware,Any coverage,estimate,808,2011
+27007,27546,Delaware,Uninsured,estimate,84,2011
+27017,27556,District of Columbia,Any coverage,estimate,566,2011
+27018,27557,District of Columbia,Uninsured,estimate,42,2011
+27028,27567,Florida,Any coverage,estimate,14840,2011
+27029,27568,Florida,Uninsured,estimate,3911,2011
+27039,27578,Georgia,Any coverage,estimate,7737,2011
+27040,27579,Georgia,Uninsured,estimate,1883,2011
+27050,27589,Hawaii,Any coverage,estimate,1232,2011
+27051,27590,Hawaii,Uninsured,estimate,94,2011
+27061,27600,Idaho,Any coverage,estimate,1307,2011
+27062,27601,Idaho,Uninsured,estimate,259,2011
+27072,27611,Illinois,Any coverage,estimate,11030,2011
+27073,27612,Illinois,Uninsured,estimate,1659,2011
+27083,27622,Indiana,Any coverage,estimate,5487,2011
+27084,27623,Indiana,Uninsured,estimate,931,2011
+27094,27633,Iowa,Any coverage,estimate,2748,2011
+27095,27634,Iowa,Uninsured,estimate,269,2011
+27105,27644,Kansas,Any coverage,estimate,2459,2011
+27106,27645,Kansas,Uninsured,estimate,355,2011
+27116,27655,Kentucky,Any coverage,estimate,3666,2011
+27117,27656,Kentucky,Uninsured,estimate,618,2011
+27127,27666,Louisiana,Any coverage,estimate,3689,2011
+27128,27667,Louisiana,Uninsured,estimate,784,2011
+27138,27677,Maine,Any coverage,estimate,1174,2011
+27139,27678,Maine,Uninsured,estimate,140,2011
+27149,27688,Maryland,Any coverage,estimate,5138,2011
+27150,27689,Maryland,Uninsured,estimate,598,2011
+27160,27699,Massachusetts,Any coverage,estimate,6231,2011
+27161,27700,Massachusetts,Uninsured,estimate,277,2011
+27171,27710,Michigan,Any coverage,estimate,8612,2011
+27172,27711,Michigan,Uninsured,estimate,1150,2011
+27182,27721,Minnesota,Any coverage,estimate,4819,2011
+27183,27722,Minnesota,Uninsured,estimate,467,2011
+27193,27732,Mississippi,Any coverage,estimate,2395,2011
+27194,27733,Mississippi,Uninsured,estimate,516,2011
+27204,27743,Missouri,Any coverage,estimate,5092,2011
+27205,27744,Missouri,Uninsured,estimate,807,2011
+27215,27754,Montana,Any coverage,estimate,804,2011
+27216,27755,Montana,Uninsured,estimate,180,2011
+27226,27765,Nebraska,Any coverage,estimate,1607,2011
+27227,27766,Nebraska,Uninsured,estimate,207,2011
+27237,27776,Nevada,Any coverage,estimate,2098,2011
+27238,27777,Nevada,Uninsured,estimate,589,2011
+27248,27787,New Hampshire,Any coverage,estimate,1167,2011
+27249,27788,New Hampshire,Uninsured,estimate,137,2011
+27259,27798,New Jersey,Any coverage,estimate,7574,2011
+27260,27799,New Jersey,Uninsured,estimate,1139,2011
+27270,27809,New Mexico,Any coverage,estimate,1641,2011
+27271,27810,New Mexico,Uninsured,estimate,406,2011
+27281,27820,New York,Any coverage,estimate,17010,2011
+27282,27821,New York,Uninsured,estimate,2195,2011
+27292,27831,North Carolina,Any coverage,estimate,7916,2011
+27293,27832,North Carolina,Uninsured,estimate,1545,2011
+27303,27842,North Dakota,Any coverage,estimate,604,2011
+27304,27843,North Dakota,Uninsured,estimate,65,2011
+27314,27853,Ohio,Any coverage,estimate,10020,2011
+27315,27854,Ohio,Uninsured,estimate,1354,2011
+27325,27864,Oklahoma,Any coverage,estimate,3017,2011
+27326,27865,Oklahoma,Uninsured,estimate,694,2011
+27336,27875,Oregon,Any coverage,estimate,3230,2011
+27337,27876,Oregon,Uninsured,estimate,602,2011
+27347,27886,Pennsylvania,Any coverage,estimate,11280,2011
+27348,27887,Pennsylvania,Uninsured,estimate,1265,2011
+27358,27897,Rhode Island,Any coverage,estimate,923,2011
+27359,27898,Rhode Island,Uninsured,estimate,112,2011
+27369,27908,South Carolina,Any coverage,estimate,3813,2011
+27370,27909,South Carolina,Uninsured,estimate,766,2011
+27380,27919,South Dakota,Any coverage,estimate,710,2011
+27381,27920,South Dakota,Uninsured,estimate,96,2011
+27391,27930,Tennessee,Any coverage,estimate,5380,2011
+27392,27931,Tennessee,Uninsured,estimate,923,2011
+27402,27941,Texas,Any coverage,estimate,19410,2011
+27403,27942,Texas,Uninsured,estimate,5790,2011
+27413,27952,Utah,Any coverage,estimate,2364,2011
+27414,27953,Utah,Uninsured,estimate,426,2011
+27424,27963,Vermont,Any coverage,estimate,579,2011
+27425,27964,Vermont,Uninsured,estimate,41,2011
+27435,27974,Virginia,Any coverage,estimate,6904,2011
+27436,27975,Virginia,Uninsured,estimate,983,2011
+27446,27985,Washington,Any coverage,estimate,5764,2011
+27447,27986,Washington,Uninsured,estimate,953,2011
+27457,27996,West Virginia,Any coverage,estimate,1554,2011
+27458,27997,West Virginia,Uninsured,estimate,272,2011
+27468,28007,Wisconsin,Any coverage,estimate,5127,2011
+27469,28008,Wisconsin,Uninsured,estimate,507,2011
+27479,28018,Wyoming,Any coverage,estimate,473,2011
+27480,28019,Wyoming,Uninsured,estimate,86,2011
+29173,29756,Alabama,Any coverage,estimate,4016,2010
+29174,29757,Alabama,Uninsured,estimate,687,2010
+29184,29767,Alaska,Any coverage,estimate,552,2010
+29185,29768,Alaska,Uninsured,estimate,137,2010
+29195,29778,Arizona,Any coverage,estimate,5245,2010
+29196,29779,Arizona,Uninsured,estimate,1065,2010
+29206,29789,Arkansas,Any coverage,estimate,2367,2010
+29207,29790,Arkansas,Uninsured,estimate,501,2010
+29217,29800,California,Any coverage,estimate,29990,2010
+29218,29801,California,Uninsured,estimate,6825,2010
+29228,29811,Colorado,Any coverage,estimate,4168,2010
+29229,29812,Colorado,Uninsured,estimate,789,2010
+29239,29822,Connecticut,Any coverage,estimate,3200,2010
+29240,29823,Connecticut,Uninsured,estimate,320,2010
+29250,29833,Delaware,Any coverage,estimate,799,2010
+29251,29834,Delaware,Uninsured,estimate,86,2010
+29261,29844,District of Columbia,Any coverage,estimate,549,2010
+29262,29845,District of Columbia,Uninsured,estimate,45,2010
+29272,29855,Florida,Any coverage,estimate,14590,2010
+29273,29856,Florida,Uninsured,estimate,3941,2010
+29283,29866,Georgia,Any coverage,estimate,7644,2010
+29284,29867,Georgia,Uninsured,estimate,1876,2010
+29294,29877,Hawaii,Any coverage,estimate,1212,2010
+29295,29878,Hawaii,Uninsured,estimate,104,2010
+29305,29888,Idaho,Any coverage,estimate,1276,2010
+29306,29889,Idaho,Uninsured,estimate,275,2010
+29316,29899,Illinois,Any coverage,estimate,10930,2010
+29317,29900,Illinois,Uninsured,estimate,1746,2010
+29327,29910,Indiana,Any coverage,estimate,5444,2010
+29328,29911,Indiana,Uninsured,estimate,948,2010
+29338,29921,Iowa,Any coverage,estimate,2725,2010
+29339,29922,Iowa,Uninsured,estimate,280,2010
+29349,29932,Kansas,Any coverage,estimate,2415,2010
+29350,29933,Kansas,Uninsured,estimate,389,2010
+29360,29943,Kentucky,Any coverage,estimate,3596,2010
+29361,29944,Kentucky,Uninsured,estimate,647,2010
+29371,29954,Louisiana,Any coverage,estimate,3649,2010
+29372,29955,Louisiana,Uninsured,estimate,791,2010
+29382,29965,Maine,Any coverage,estimate,1180,2010
+29383,29966,Maine,Uninsured,estimate,133,2010
+29393,29976,Maryland,Any coverage,estimate,5047,2010
+29394,29977,Maryland,Uninsured,estimate,641,2010
+29404,29987,Massachusetts,Any coverage,estimate,6192,2010
+29405,29988,Massachusetts,Uninsured,estimate,286,2010
+29415,29998,Michigan,Any coverage,estimate,8556,2010
+29416,29999,Michigan,Uninsured,estimate,1207,2010
+29426,30009,Minnesota,Any coverage,estimate,4776,2010
+29427,30010,Minnesota,Uninsured,estimate,476,2010
+29437,30020,Mississippi,Any coverage,estimate,2375,2010
+29438,30021,Mississippi,Uninsured,estimate,528,2010
+29448,30031,Missouri,Any coverage,estimate,5106,2010
+29449,30032,Missouri,Uninsured,estimate,774,2010
+29459,30042,Montana,Any coverage,estimate,807,2010
+29460,30043,Montana,Uninsured,estimate,169,2010
+29470,30053,Nebraska,Any coverage,estimate,1594,2010
+29471,30054,Nebraska,Uninsured,estimate,208,2010
+29481,30064,Nevada,Any coverage,estimate,2065,2010
+29482,30065,Nevada,Uninsured,estimate,604,2010
+29492,30075,New Hampshire,Any coverage,estimate,1158,2010
+29493,30076,New Hampshire,Uninsured,estimate,145,2010
+29503,30086,New Jersey,Any coverage,estimate,7542,2010
+29504,30087,New Jersey,Uninsured,estimate,1151,2010
+29514,30097,New Mexico,Any coverage,estimate,1634,2010
+29515,30098,New Mexico,Uninsured,estimate,399,2010
+29525,30108,New York,Any coverage,estimate,16860,2010
+29526,30109,New York,Uninsured,estimate,2277,2010
+29536,30119,North Carolina,Any coverage,estimate,7791,2010
+29537,30120,North Carolina,Uninsured,estimate,1570,2010
+29547,30130,North Dakota,Any coverage,estimate,596,2010
+29548,30131,North Dakota,Uninsured,estimate,65,2010
+29558,30141,Ohio,Any coverage,estimate,9960,2010
+29559,30142,Ohio,Uninsured,estimate,1399,2010
+29569,30152,Oklahoma,Any coverage,estimate,2984,2010
+29570,30153,Oklahoma,Uninsured,estimate,694,2010
+29580,30163,Oregon,Any coverage,estimate,3148,2010
+29581,30164,Oregon,Uninsured,estimate,652,2010
+29591,30174,Pennsylvania,Any coverage,estimate,11240,2010
+29592,30175,Pennsylvania,Uninsured,estimate,1271,2010
+29602,30185,Rhode Island,Any coverage,estimate,911,2010
+29603,30186,Rhode Island,Uninsured,estimate,126,2010
+29613,30196,South Carolina,Any coverage,estimate,3742,2010
+29614,30197,South Carolina,Uninsured,estimate,795,2010
+29624,30207,South Dakota,Any coverage,estimate,699,2010
+29625,30208,South Dakota,Uninsured,estimate,99,2010
+29635,30218,Tennessee,Any coverage,estimate,5361,2010
+29636,30219,Tennessee,Uninsured,estimate,899,2010
+29646,30229,Texas,Any coverage,estimate,18900,2010
+29647,30230,Texas,Uninsured,estimate,5875,2010
+29657,30240,Utah,Any coverage,estimate,2328,2010
+29658,30241,Utah,Uninsured,estimate,422,2010
+29668,30251,Vermont,Any coverage,estimate,570,2010
+29669,30252,Vermont,Uninsured,estimate,50,2010
+29679,30262,Virginia,Any coverage,estimate,6787,2010
+29680,30263,Virginia,Uninsured,estimate,1020,2010
+29690,30273,Washington,Any coverage,estimate,5692,2010
+29691,30274,Washington,Uninsured,estimate,946,2010
+29701,30284,West Virginia,Any coverage,estimate,1557,2010
+29702,30285,West Virginia,Uninsured,estimate,266,2010
+29712,30295,Wisconsin,Any coverage,estimate,5084,2010
+29713,30296,Wisconsin,Uninsured,estimate,529,2010
+29723,30306,Wyoming,Any coverage,estimate,472,2010
+29724,30307,Wyoming,Uninsured,estimate,83,2010
+31417,32044,Alabama,Any coverage,estimate,3979,2009
+31418,32045,Alabama,Uninsured,estimate,637,2009
+31428,32055,Alaska,Any coverage,estimate,535,2009
+31429,32056,Alaska,Uninsured,estimate,143,2009
+31439,32066,Arizona,Any coverage,estimate,5375,2009
+31440,32067,Arizona,Uninsured,estimate,1127,2009
+31450,32077,Arkansas,Any coverage,estimate,2351,2009
+31451,32078,Arkansas,Uninsured,estimate,483,2009
+31461,32088,California,Any coverage,estimate,29820,2009
+31462,32089,California,Uninsured,estimate,6559,2009
+31472,32099,Colorado,Any coverage,estimate,4152,2009
+31473,32100,Colorado,Uninsured,estimate,778,2009
+31483,32110,Connecticut,Any coverage,estimate,3152,2009
+31484,32111,Connecticut,Uninsured,estimate,305,2009
+31494,32121,Delaware,Any coverage,estimate,780,2009
+31495,32122,Delaware,Uninsured,estimate,89,2009
+31505,32132,District of Columbia,Any coverage,estimate,548,2009
+31506,32133,District of Columbia,Uninsured,estimate,41,2009
+31516,32143,Florida,Any coverage,estimate,14400,2009
+31517,32144,Florida,Uninsured,estimate,3795,2009
+31527,32154,Georgia,Any coverage,estimate,7758,2009
+31528,32155,Georgia,Uninsured,estimate,1836,2009
+31538,32165,Hawaii,Any coverage,estimate,1146,2009
+31539,32166,Hawaii,Uninsured,estimate,86,2009
+31549,32176,Idaho,Any coverage,estimate,1256,2009
+31550,32177,Idaho,Uninsured,estimate,264,2009
+31560,32187,Illinois,Any coverage,estimate,11030,2009
+31561,32188,Illinois,Uninsured,estimate,1694,2009
+31571,32198,Indiana,Any coverage,estimate,5415,2009
+31572,32199,Indiana,Uninsured,estimate,901,2009
+31582,32209,Iowa,Any coverage,estimate,2702,2009
+31583,32210,Iowa,Uninsured,estimate,255,2009
+31593,32220,Kansas,Any coverage,estimate,2394,2009
+31594,32221,Kansas,Uninsured,estimate,363,2009
+31604,32231,Kentucky,Any coverage,estimate,3612,2009
+31605,32232,Kentucky,Uninsured,estimate,613,2009
+31615,32242,Louisiana,Any coverage,estimate,3629,2009
+31616,32243,Louisiana,Uninsured,estimate,762,2009
+31626,32253,Maine,Any coverage,estimate,1164,2009
+31627,32254,Maine,Uninsured,estimate,137,2009
+31637,32264,Maryland,Any coverage,estimate,4969,2009
+31638,32265,Maryland,Uninsured,estimate,621,2009
+31648,32275,Massachusetts,Any coverage,estimate,6225,2009
+31649,32276,Massachusetts,Uninsured,estimate,271,2009
+31659,32286,Michigan,Any coverage,estimate,8632,2009
+31660,32287,Michigan,Uninsured,estimate,1203,2009
+31670,32297,Minnesota,Any coverage,estimate,4724,2009
+31671,32298,Minnesota,Uninsured,estimate,473,2009
+31681,32308,Mississippi,Any coverage,estimate,2366,2009
+31682,32309,Mississippi,Uninsured,estimate,514,2009
+31692,32319,Missouri,Any coverage,estimate,5098,2009
+31693,32320,Missouri,Uninsured,estimate,774,2009
+31703,32330,Montana,Any coverage,estimate,783,2009
+31704,32331,Montana,Uninsured,estimate,174,2009
+31714,32341,Nebraska,Any coverage,estimate,1553,2009
+31715,32342,Nebraska,Uninsured,estimate,210,2009
+31725,32352,Nevada,Any coverage,estimate,2038,2009
+31726,32353,Nevada,Uninsured,estimate,572,2009
+31736,32363,New Hampshire,Any coverage,estimate,1175,2009
+31737,32364,New Hampshire,Uninsured,estimate,134,2009
+31747,32374,New Jersey,Any coverage,estimate,7499,2009
+31748,32375,New Jersey,Uninsured,estimate,1084,2009
+31758,32385,New Mexico,Any coverage,estimate,1586,2009
+31759,32386,New Mexico,Uninsured,estimate,390,2009
+31769,32396,New York,Any coverage,estimate,17070,2009
+31770,32397,New York,Uninsured,estimate,2195,2009
+31780,32407,North Carolina,Any coverage,estimate,7679,2009
+31781,32408,North Carolina,Uninsured,estimate,1471,2009
+31791,32418,North Dakota,Any coverage,estimate,569,2009
+31792,32419,North Dakota,Uninsured,estimate,61,2009
+31802,32429,Ohio,Any coverage,estimate,9969,2009
+31803,32430,Ohio,Uninsured,estimate,1383,2009
+31813,32440,Oklahoma,Any coverage,estimate,2919,2009
+31814,32441,Oklahoma,Uninsured,estimate,672,2009
+31824,32451,Oregon,Any coverage,estimate,3137,2009
+31825,32452,Oregon,Uninsured,estimate,643,2009
+31835,32462,Pennsylvania,Any coverage,estimate,11150,2009
+31836,32463,Pennsylvania,Uninsured,estimate,1220,2009
+31846,32473,Rhode Island,Any coverage,estimate,919,2009
+31847,32474,Rhode Island,Uninsured,estimate,117,2009
+31857,32484,South Carolina,Any coverage,estimate,3705,2009
+31858,32485,South Carolina,Uninsured,estimate,750,2009
+31868,32495,South Dakota,Any coverage,estimate,689,2009
+31869,32496,South Dakota,Uninsured,estimate,104,2009
+31879,32506,Tennessee,Any coverage,estimate,5305,2009
+31880,32507,Tennessee,Uninsured,estimate,883,2009
+31890,32517,Texas,Any coverage,estimate,18510,2009
+31891,32518,Texas,Uninsured,estimate,5783,2009
+31901,32528,Utah,Any coverage,estimate,2354,2009
+31902,32529,Utah,Uninsured,estimate,401,2009
+31912,32539,Vermont,Any coverage,estimate,562,2009
+31913,32540,Vermont,Uninsured,estimate,53,2009
+31923,32550,Virginia,Any coverage,estimate,6736,2009
+31924,32551,Virginia,Uninsured,estimate,908,2009
+31934,32561,Washington,Any coverage,estimate,5669,2009
+31935,32562,Washington,Uninsured,estimate,878,2009
+31945,32572,West Virginia,Any coverage,estimate,1539,2009
+31946,32573,West Virginia,Uninsured,estimate,254,2009
+31956,32583,Wisconsin,Any coverage,estimate,5045,2009
+31957,32584,Wisconsin,Uninsured,estimate,521,2009
+31967,32594,Wyoming,Any coverage,estimate,453,2009
+31968,32595,Wyoming,Uninsured,estimate,81,2009
+33661,34332,Alabama,Any coverage,estimate,3966,2008
+33662,34333,Alabama,Uninsured,estimate,609,2008
+33672,34343,Alaska,Any coverage,estimate,533,2008
+33673,34344,Alaska,Uninsured,estimate,126,2008
+33683,34354,Arizona,Any coverage,estimate,5249,2008
+33684,34355,Arizona,Uninsured,estimate,1154,2008
+33694,34365,Arkansas,Any coverage,estimate,2322,2008
+33695,34366,Arkansas,Uninsured,estimate,480,2008
+33705,34376,California,Any coverage,estimate,29920,2008
+33706,34377,California,Uninsured,estimate,6239,2008
+33716,34387,Colorado,Any coverage,estimate,4042,2008
+33717,34388,Colorado,Uninsured,estimate,812,2008
+33727,34398,Connecticut,Any coverage,estimate,3138,2008
+33728,34399,Connecticut,Uninsured,estimate,302,2008
+33738,34409,Delaware,Any coverage,estimate,771,2008
+33739,34410,Delaware,Uninsured,estimate,85,2008
+33749,34420,District of Columbia,Any coverage,estimate,536,2008
+33750,34421,District of Columbia,Uninsured,estimate,44,2008
+33760,34431,Florida,Any coverage,estimate,14360,2008
+33761,34432,Florida,Uninsured,estimate,3639,2008
+33771,34442,Georgia,Any coverage,estimate,7748,2008
+33772,34443,Georgia,Uninsured,estimate,1725,2008
+33782,34453,Hawaii,Any coverage,estimate,1156,2008
+33783,34454,Hawaii,Uninsured,estimate,80,2008
+33793,34464,Idaho,Any coverage,estimate,1241,2008
+33794,34465,Idaho,Uninsured,estimate,257,2008
+33804,34475,Illinois,Any coverage,estimate,11130,2008
+33805,34476,Illinois,Uninsured,estimate,1575,2008
+33815,34486,Indiana,Any coverage,estimate,5432,2008
+33816,34487,Indiana,Uninsured,estimate,839,2008
+33826,34497,Iowa,Any coverage,estimate,2696,2008
+33827,34498,Iowa,Uninsured,estimate,256,2008
+33837,34508,Kansas,Any coverage,estimate,2426,2008
+33838,34509,Kansas,Uninsured,estimate,313,2008
+33848,34519,Kentucky,Any coverage,estimate,3637,2008
+33849,34520,Kentucky,Uninsured,estimate,551,2008
+33859,34530,Louisiana,Any coverage,estimate,3580,2008
+33860,34531,Louisiana,Uninsured,estimate,733,2008
+33870,34541,Maine,Any coverage,estimate,1164,2008
+33871,34542,Maine,Uninsured,estimate,135,2008
+33881,34552,Maryland,Any coverage,estimate,4934,2008
+33882,34553,Maryland,Uninsured,estimate,595,2008
+33892,34563,Massachusetts,Any coverage,estimate,6150,2008
+33893,34564,Massachusetts,Uninsured,estimate,249,2008
+33903,34574,Michigan,Any coverage,estimate,8785,2008
+33904,34575,Michigan,Uninsured,estimate,1081,2008
+33914,34585,Minnesota,Any coverage,estimate,4717,2008
+33915,34586,Minnesota,Uninsured,estimate,433,2008
+33925,34596,Mississippi,Any coverage,estimate,2381,2008
+33926,34597,Mississippi,Uninsured,estimate,486,2008
+33936,34607,Missouri,Any coverage,estimate,5075,2008
+33937,34608,Missouri,Uninsured,estimate,720,2008
+33947,34618,Montana,Any coverage,estimate,784,2008
+33948,34619,Montana,Uninsured,estimate,166,2008
+33958,34629,Nebraska,Any coverage,estimate,1561,2008
+33959,34630,Nebraska,Uninsured,estimate,189,2008
+33969,34640,Nevada,Any coverage,estimate,2036,2008
+33970,34641,Nevada,Uninsured,estimate,532,2008
+33980,34651,New Hampshire,Any coverage,estimate,1163,2008
+33981,34652,New Hampshire,Uninsured,estimate,136,2008
+33991,34662,New Jersey,Any coverage,estimate,7532,2008
+33992,34663,New Jersey,Uninsured,estimate,1025,2008
+34002,34673,New Mexico,Any coverage,estimate,1548,2008
+34003,34674,New Mexico,Uninsured,estimate,404,2008
+34013,34684,New York,Any coverage,estimate,17010,2008
+34014,34685,New York,Uninsured,estimate,2194,2008
+34024,34695,North Carolina,Any coverage,estimate,7613,2008
+34025,34696,North Carolina,Uninsured,estimate,1391,2008
+34035,34706,North Dakota,Any coverage,estimate,561,2008
+34036,34707,North Dakota,Uninsured,estimate,63,2008
+34046,34717,Ohio,Any coverage,estimate,10010,2008
+34047,34718,Ohio,Uninsured,estimate,1282,2008
+34057,34728,Oklahoma,Any coverage,estimate,2886,2008
+34058,34729,Oklahoma,Uninsured,estimate,664,2008
+34068,34739,Oregon,Any coverage,estimate,3153,2008
+34069,34740,Oregon,Uninsured,estimate,593,2008
+34079,34750,Pennsylvania,Any coverage,estimate,11110,2008
+34080,34751,Pennsylvania,Uninsured,estimate,1103,2008
+34090,34761,Rhode Island,Any coverage,estimate,926,2008
+34091,34762,Rhode Island,Uninsured,estimate,105,2008
+34101,34772,South Carolina,Any coverage,estimate,3643,2008
+34102,34773,South Carolina,Uninsured,estimate,731,2008
+34112,34783,South Dakota,Any coverage,estimate,696,2008
+34113,34784,South Dakota,Uninsured,estimate,87,2008
+34123,34794,Tennessee,Any coverage,estimate,5323,2008
+34124,34795,Tennessee,Uninsured,estimate,790,2008
+34134,34805,Texas,Any coverage,estimate,18260,2008
+34135,34806,Texas,Uninsured,estimate,5564,2008
+34145,34816,Utah,Any coverage,estimate,2300,2008
+34146,34817,Utah,Uninsured,estimate,405,2008
+34156,34827,Vermont,Any coverage,estimate,561,2008
+34157,34828,Vermont,Uninsured,estimate,54,2008
+34167,34838,Virginia,Any coverage,estimate,6649,2008
+34168,34839,Virginia,Uninsured,estimate,871,2008
+34178,34849,Washington,Any coverage,estimate,5622,2008
+34179,34850,Washington,Uninsured,estimate,807,2008
+34189,34860,West Virginia,Any coverage,estimate,1523,2008
+34190,34861,West Virginia,Uninsured,estimate,265,2008
+34200,34871,Wisconsin,Any coverage,estimate,5051,2008
+34201,34872,Wisconsin,Uninsured,estimate,489,2008
+34211,34882,Wyoming,Any coverage,estimate,452,2008
+34212,34883,Wyoming,Uninsured,estimate,72,2008
